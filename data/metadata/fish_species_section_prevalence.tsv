@@ -1,0 +1,43 @@
+analysis_label	section	n_sites	n_common_timepoints	n_site_time_units	n_units_detected	unit_prevalence	included_in_trait_summary	interpretation_note
+Abramis_brama	upper	5	11	55	0	0.0000	yes	conditional A. brama trait proxy; no local identity
+Abramis_brama	middle	5	11	55	1	0.0182	yes	conditional A. brama trait proxy; no local identity
+Abramis_brama	lower	4	11	44	3	0.0682	yes	conditional A. brama trait proxy; no local identity
+Anguilla_anguilla	upper	5	11	55	0	0.0000	yes	conditional A. anguilla trait proxy; no local identity
+Anguilla_anguilla	middle	5	11	55	6	0.1091	yes	conditional A. anguilla trait proxy; no local identity
+Anguilla_anguilla	lower	4	11	44	41	0.9318	yes	conditional A. anguilla trait proxy; no local identity
+Barbatula_barbatula	upper	5	11	55	0	0.0000	yes	genus-level flowing-stony trait proxy; no local identity
+Barbatula_barbatula	middle	5	11	55	36	0.6545	yes	genus-level flowing-stony trait proxy; no local identity
+Barbatula_barbatula	lower	4	11	44	36	0.8182	yes	genus-level flowing-stony trait proxy; no local identity
+Barbus_barbus	upper	5	11	55	0	0.0000	yes	conditional B. barbus trait proxy; no local identity
+Barbus_barbus	middle	5	11	55	0	0.0000	yes	conditional B. barbus trait proxy; no local identity
+Barbus_barbus	lower	4	11	44	0	0.0000	yes	conditional B. barbus trait proxy; no local identity
+Cottus_perifretum	upper	5	11	55	0	0.0000	yes	bullhead-complex trait proxy; no local identity
+Cottus_perifretum	middle	5	11	55	0	0.0000	yes	bullhead-complex trait proxy; no local identity
+Cottus_perifretum	lower	4	11	44	0	0.0000	yes	bullhead-complex trait proxy; no local identity
+Gasterosteus_aculeatus	upper	5	11	55	0	0.0000	yes	conditional G. aculeatus trait proxy; no local identity/ecotype
+Gasterosteus_aculeatus	middle	5	11	55	1	0.0182	yes	conditional G. aculeatus trait proxy; no local identity/ecotype
+Gasterosteus_aculeatus	lower	4	11	44	32	0.7273	yes	conditional G. aculeatus trait proxy; no local identity/ecotype
+Oncorhynchus_mykiss_x_Salmo_salar	upper	5	11	55	0	0.0000	yes	conditional O. mykiss proxy; no hybrid/local-occurrence evidence
+Oncorhynchus_mykiss_x_Salmo_salar	middle	5	11	55	0	0.0000	yes	conditional O. mykiss proxy; no hybrid/local-occurrence evidence
+Oncorhynchus_mykiss_x_Salmo_salar	lower	4	11	44	11	0.2500	yes	conditional O. mykiss proxy; no hybrid/local-occurrence evidence
+Perca_flavescens	upper	5	11	55	0	0.0000	no	one-ASV/four-read geographic/taxonomic review label
+Perca_flavescens	middle	5	11	55	1	0.0182	no	one-ASV/four-read geographic/taxonomic review label
+Perca_flavescens	lower	4	11	44	0	0.0000	no	one-ASV/four-read geographic/taxonomic review label
+Perca_fluviatilis	upper	5	11	55	0	0.0000	yes	conditional P. fluviatilis trait proxy; no local/replacement identity
+Perca_fluviatilis	middle	5	11	55	1	0.0182	yes	conditional P. fluviatilis trait proxy; no local/replacement identity
+Perca_fluviatilis	lower	4	11	44	0	0.0000	yes	conditional P. fluviatilis trait proxy; no local/replacement identity
+Phoxinus_ujmonensis	upper	5	11	55	1	0.0182	yes	genus-level trait proxy; no local species identity
+Phoxinus_ujmonensis	middle	5	11	55	51	0.9273	yes	genus-level trait proxy; no local species identity
+Phoxinus_ujmonensis	lower	4	11	44	44	1.0000	yes	genus-level trait proxy; no local species identity
+Pungitius_pungitius	upper	5	11	55	0	0.0000	yes	genus-level trait envelope; no local species identity
+Pungitius_pungitius	middle	5	11	55	0	0.0000	yes	genus-level trait envelope; no local species identity
+Pungitius_pungitius	lower	4	11	44	9	0.2045	yes	genus-level trait envelope; no local species identity
+Salmo_trutta	upper	5	11	55	53	0.9636	yes	Salmo genus stable; brown-trout traits conditional, no local species identity
+Salmo_trutta	middle	5	11	55	55	1.0000	yes	Salmo genus stable; brown-trout traits conditional, no local species identity
+Salmo_trutta	lower	4	11	44	44	1.0000	yes	Salmo genus stable; brown-trout traits conditional, no local species identity
+Salmo_salar	upper	5	11	55	0	0.0000	yes	S. salar traits conditional on reported label; no local identity
+Salmo_salar	middle	5	11	55	35	0.6364	yes	S. salar traits conditional on reported label; no local identity
+Salmo_salar	lower	4	11	44	40	0.9091	yes	S. salar traits conditional on reported label; no local identity
+Salvelinus_malma	upper	5	11	55	0	0.0000	no	incompatible Salvelinus collapse
+Salvelinus_malma	middle	5	11	55	0	0.0000	no	incompatible Salvelinus collapse
+Salvelinus_malma	lower	4	11	44	2	0.0455	no	incompatible Salvelinus collapse

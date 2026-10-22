@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "scope": "offline Phase-5 scientific-impact workflow",
+  "frozen_specification": "PASS",
+  "analysis_mode": "full-rebuild",
+  "release_mode": true,
+  "rscript": "<micromamba env edna>/bin/Rscript",
+  "canonical_artifacts": 47,
+  "deterministic_against_previous_run": "PASS",
+  "mismatches": [],
+  "runtime_seconds": 258.328,
+  "runtime_scope": "scientific rebuild and release rendering before packaging; packaging and verification excluded so this finalized receipt can be embedded in the archive",
+  "receipt_finalized_before_packaging": true,
+  "expected_ordinary_laptop_runtime": "approximately 4-7 minutes per full scientific rebuild; release rendering adds about 1 minute",
+  "claim_boundary": "Synthetic occupancy results do not estimate Conwy occupancy; public sequence labels are annotations; pipeline disagreement is not a biological false-negative rate."
+}

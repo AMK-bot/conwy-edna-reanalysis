@@ -1,0 +1,4 @@
+method_or_database,species_call,genus_call,identity_percent,evidence_scope
+MitoHelper Nov-2025 first hit,Salmo macrostigma,Salmo,100.0,fish reference database
+MitoFish Nov-2025 MMseqs2,Salmo trutta,Salmo,100.0,same-vintage classifier sensitivity
+MIDORI2 GenBank271,Salmo carpio,Salmo,100.0,independent current database

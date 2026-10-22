@@ -1,0 +1,15 @@
+field	value
+analysis	Layer-E robustness multiverse
+manifest_seed	2026071902
+runtime_seconds	39.354
+R_version	R version 4.4.3 (2025-02-28)
+vegan_version	2.7.5
+jsonlite_version	2.0.0
+digest_version	0.6.39
+specification_families	72
+one_library_draw_result_rows	3600
+library_selection_rows	23400
+reference_influence_rows	75
+nonidentity_permutations	27
+exact_p_resolution	0.0357142857
+gate_status	FAILED_GATE: robustness wording withheld

@@ -1,0 +1,558 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A six-part, evidence-linked account of the River Conwy fish-eDNA credibility audit, its five claims, stress tests, models, simulations, and final scientific verdict.">
+  <title>River Conwy fish-eDNA | Six-part scientific audit</title>
+  <link rel="stylesheet" href="assets/style.css">
+  <script src="assets/content-overrides.js" defer></script>
+  <script src="assets/apply-content.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to the scientific question</a>
+
+  <header class="story-header">
+    <nav class="site-nav" aria-label="Project website">
+      <a class="brand" href="index.html" aria-current="page">River Conwy eDNA</a>
+      <div>
+        <a href="#question">Question</a>
+        <a href="#methodology">Method</a>
+        <a href="#initial-claims">Claims</a>
+        <a href="#stress-tests">Tests</a>
+        <a href="#models">Models</a>
+        <a href="#verdict">Verdict</a>
+        <a href="deliverables.html">All files</a>
+      </div>
+    </nav>
+
+    <div class="hero story-hero">
+      <div>
+        <p class="eyebrow" data-edit-key="hero.eyebrow">Biosciences portfolio edition · six-part scientific audit</p>
+        <h1>Five claims entered. One accepted, one rejected, three non-conclusive.</h1>
+        <p class="lede" data-edit-key="hero.summary">This River Conwy fish-eDNA reanalysis did not ask how many conclusions could be extracted from a complex dataset. It asked which conclusions remained defensible after the biological unit, observation process, taxonomic evidence, null expectations, and failure rules were made explicit.</p>
+        <div class="actions">
+          <a class="button" href="#question">Follow the investigation</a>
+          <a class="button secondary" href="claim-survival.html">Open the interactive claim map</a>
+        </div>
+      </div>
+      <aside class="audit-tally" aria-label="Final three-state decision tally">
+        <p class="eyebrow">Final tally</p>
+        <div class="tally-line accepted"><strong>1</strong><span>claim accepted</span></div>
+        <div class="tally-line rejected"><strong>1</strong><span>claim rejected</span></div>
+        <div class="tally-line non-conclusive"><strong>3</strong><span>claims non-conclusive</span></div>
+        <p class="tally-note"><strong>Accepted</strong> means adequate evidence met the decision rule. <strong>Rejected</strong> means a completed, adequate test did not support the claim. <strong>Non-conclusive</strong> means fit, validity, or coverage was insufficient to decide.</p>
+      </aside>
+    </div>
+
+    <nav class="story-outline" aria-label="Six-part investigation structure">
+      <a href="#question"><span>01</span>Our question</a>
+      <a href="#methodology"><span>02</span>Methodology</a>
+      <a href="#initial-claims"><span>03</span>Initial claims</a>
+      <a href="#stress-tests"><span>04</span>Stress tests</a>
+      <a href="#models"><span>05</span>Models</a>
+      <a href="#verdict"><span>06</span>Final verdict</a>
+    </nav>
+  </header>
+
+  <main id="main-content">
+    <section id="question" class="story-section" aria-labelledby="question-heading">
+      <div class="section-kicker"><span>01</span><p>Our question</p></div>
+      <h2 id="question-heading" data-edit-key="question.title">Our question: what can this replicated river-eDNA dataset actually establish?</h2>
+      <p class="section-intro summary-copy" data-edit-key="question.summary">The source survey provided an unusually rich view of fish eDNA through space and time. The reanalysis focused on a harder question: after correcting the unit of inference and testing the observation, pipeline, taxonomy, and trait assumptions, which biological interpretations remain supportable?</p>
+
+      <div class="fact-grid" aria-label="Verified evidence base">
+        <div class="fact"><strong>14</strong><span>River Conwy sites</span></div>
+        <div class="fact"><strong>18</strong><span>usable timepoints</span></div>
+        <div class="fact"><strong>647</strong><span>validated field libraries</span></div>
+        <div class="fact"><strong>1,348</strong><span>amplicon sequence variants</span></div>
+      </div>
+
+      <div class="question-grid">
+        <article>
+          <p class="number">BIOLOGICAL PATTERN</p>
+          <h3 data-edit-key="question.biological.title">Does detected fish-label diversity broaden downstream?</h3>
+          <p data-edit-key="question.biological.body">The analysis distinguishes a stable descriptive river pattern from a confirmed ecological mechanism or true-richness estimate.</p>
+        </article>
+        <article>
+          <p class="number">OBSERVATION PROCESS</p>
+          <h3 data-edit-key="question.observation.title">Can missed detection be corrected reliably?</h3>
+          <p data-edit-key="question.observation.body">The analysis asks when replication and sequencing-depth information identify occupancy—and when they create apparent precision without recoverability.</p>
+        </article>
+        <article>
+          <p class="number">BIOLOGICAL IDENTITY</p>
+          <h3 data-edit-key="question.identity.title">How finely can short eDNA markers resolve taxonomy and traits?</h3>
+          <p data-edit-key="question.identity.body">The analysis separates sequence-label discrimination from local occurrence, species identity, abundance, and functional mechanism.</p>
+        </article>
+      </div>
+
+      <div class="boundary-strip">
+        <strong>Shared boundary:</strong>
+        <span>libraries are observations within site × timepoint units</span>
+        <span>reads are not abundance</span>
+        <span>the source table is a comparator, not biological truth</span>
+      </div>
+
+      <figure class="wide-figure graphical-audit">
+        <img src="graphical_abstract.svg" loading="lazy" alt="Graphical audit showing the verified River Conwy evidence base, five claim-specific credibility tests, and a final presentation tally of one accepted, one rejected, and three non-conclusive claims.">
+        <figcaption>The complete reasoning chain: verified evidence base → five claim-specific audits → one consistent decision and reason for each claim.</figcaption>
+      </figure>
+
+      <nav class="route-strip" aria-label="Alternative reading routes">
+        <a href="research_brief.html"><span>5 minutes</span>Read the research brief</a>
+        <a href="claim-survival.html"><span>Interactive</span>Trace each claim</a>
+        <a href="../_site/conwy-reanalysis.html"><span>Technical</span>Open the full report</a>
+        <a href="../START_HERE.md"><span>Reproduce</span>Run the audited release</a>
+      </nav>
+    </section>
+
+    <section id="methodology" class="story-section" aria-labelledby="methodology-heading">
+      <div class="section-kicker"><span>02</span><p>Our methodology + key research documentation moments</p></div>
+      <h2 id="methodology-heading" data-edit-key="methodology.title">Our methodology: an evidence trail designed to preserve every decision</h2>
+      <p class="section-intro" data-edit-key="methodology.summary">Documentation was part of the science. We confirmed what had actually been sampled, reprocessed the DNA reads, recorded a model that could not support an estimate, wrote the five stress-test rules before running them, and reran the full workflow to check that the same inputs produced the same outputs. Unsuccessful models and invalid analyses stayed visible.</p>
+
+      <figure class="wide-figure">
+        <img src="assets/research-timeline.png" loading="lazy" alt="Five-step methodology timeline. Check the River Conwy source records and missing-data rules; reprocess the DNA reads into 647 validated field libraries and 1,348 DNA sequence variants; record that the rare-label model could not support an occupancy estimate; write the five questions, exact settings, included runs and verdict rules before testing; then run the full analysis twice and check a clean offline copy for matching, working outputs.">
+        <figcaption data-edit-key="methodology.diagram_caption">Each step now states the action and its purpose: check the source data, reprocess the reads, record model limits, set the tests in advance, and confirm computational reproducibility.</figcaption>
+      </figure>
+
+      <ol class="documentation-trail">
+        <li>
+          <span class="doc-step">01</span>
+          <div>
+            <h3 data-edit-key="methodology.step1.title">Check the source data</h3>
+            <p data-edit-key="methodology.step1.body">We confirmed that the records belonged to the River Conwy, linked repeated water samples, marked observations that were missing by design, and checked the environmental-data joins before analysis.</p>
+            <p class="link-row"><a href="../docs/phase2-validation-gate.md">Validation record</a><a href="../data/metadata/data_dictionary.md">Data dictionary</a><a href="../data/metadata/source_data_verification.md">Source verification</a></p>
+          </div>
+        </li>
+        <li>
+          <span class="doc-step">02</span>
+          <div>
+            <h3 data-edit-key="methodology.step2.title">Reprocess the DNA reads</h3>
+            <p>The raw sequencing workflow produced 647 validated field libraries and 1,348 unique DNA sequence variants. Repeated libraries were treated as observations within site × timepoint communities, not as independent biological samples.</p>
+            <p class="link-row"><a href="../docs/prereg.md">Original analysis plan</a><a href="../docs/phase2-validation-gate.md">Validation record</a><a href="../_site/conwy-reanalysis.html#layer-e-compositionally-correct-community-baseline">Community baseline</a></p>
+          </div>
+        </li>
+        <li>
+          <span class="doc-step">03</span>
+          <div>
+            <h3 data-edit-key="methodology.step3.title">Record model limits</h3>
+            <p>The rare-label recovery model did not converge and 18 libraries had inconsistent missing-data rules. We therefore reported no biological occupancy estimate and classified that claim as non-conclusive.</p>
+            <p class="link-row"><a href="../docs/phase3-claim-status.md">Claim record</a><a href="../data/metadata/layerA_recovery_status.tsv">Model-status record</a><a href="../data/metadata/layerA_figure_gate.tsv">Figure-suppression record</a></p>
+          </div>
+        </li>
+        <li>
+          <span class="doc-step">04</span>
+          <div>
+            <h3 data-edit-key="methodology.step4.title">Set the tests in advance</h3>
+            <p data-edit-key="methodology.step4.body">Before the new stress tests began, a dated project plan recorded five questions, what each test would estimate, the exact settings needed to repeat it, which results would count, the exclusions, and the verdict rules.</p>
+            <p class="link-row"><a href="../docs/impact-sprint-preregistration.md">Dated analysis plan</a><a href="../data/metadata/impact_sprint_manifest.json">Machine-readable settings</a><a href="../data/metadata/impact_sprint_preregistration_receipt.tsv">Plan receipt</a></p>
+          </div>
+        </li>
+        <li>
+          <span class="doc-step">05</span>
+          <div>
+            <h3 data-edit-key="methodology.step5.title">Run the tests and confirm reproducibility</h3>
+            <p>Each claim received an appropriate stress test. We then ran the complete workflow twice from the committed files, matched the outputs, and checked that a clean offline copy opened with working links. This checks computational reproducibility, not independent biological replication.</p>
+            <p class="link-row"><a href="../scripts/run_impact_sprint.py">Analysis entry command</a><a href="../data/metadata/impact_sprint_run_receipt.json">Analysis run record</a><a href="../data/metadata/claim_survival.tsv">Claim register</a><a href="../scripts/build_website.py">Website build</a><a href="../scripts/verify_release.py">Release checker</a><a href="../scripts/package_website.py">Offline packager</a></p>
+          </div>
+        </li>
+      </ol>
+    </section>
+
+    <section id="initial-claims" class="story-section" aria-labelledby="claims-heading">
+      <div class="section-kicker"><span>03</span><p>Our initial claims from the first part of the project</p></div>
+      <h2 id="claims-heading">Our initial claims: five plausible ideas became five testable hypotheses</h2>
+      <p class="section-intro">These were candidate claims formulated by this reanalysis—not claims attributed to the source-study authors. Each received a declared decision rule and one of three presentation outcomes: accepted, rejected, or non-conclusive.</p>
+
+      <div class="initial-claims">
+        <article data-claim-id="river-community" data-status="SURVIVES_CONDITIONAL" data-decision="NON_CONCLUSIVE">
+          <span class="claim-number">1</span>
+          <div>
+            <p class="number">RIVER COMMUNITY</p>
+            <h3>Detected fish analysis-label richness broadens downstream robustly.</h3>
+            <p><strong>Why plausible:</strong> balanced site × timepoint summaries showed more detected labels at downstream sites.</p>
+            <p><strong>Decision rule:</strong> at least 90% valid multiverse families, stable positive direction across specifications and draws, and no reference leave-out reversal.</p>
+            <p class="decision-reason"><span class="claim-status status-non-conclusive">Non-conclusive</span><span>All 64 valid models broadened downstream, but 64/72 missed the 90% validity requirement.</span></p>
+            <p class="link-row"><a href="claim-survival.html">Trace this claim</a><a href="#model-community">Open its model</a></p>
+          </div>
+        </article>
+        <article data-claim-id="imperfect-detection" data-status="WITHHELD" data-decision="NON_CONCLUSIVE">
+          <span class="claim-number">2</span>
+          <div>
+            <p class="number">IMPERFECT DETECTION</p>
+            <h3>A correction model can recover the true occupancy of rare Conwy labels.</h3>
+            <p><strong>Why plausible:</strong> eDNA nondetection can occur even where a label is present, particularly under limited replication or low detection.</p>
+            <p><strong>Decision rule:</strong> reliable recovery when the truth is known in simulation, plus a converged fit with consistent missing-data rules for the real Conwy observations.</p>
+            <p class="decision-reason"><span class="claim-status status-non-conclusive">Non-conclusive</span><span>The real model failed convergence and missing-data checks; the successful atlas was synthetic only.</span></p>
+            <p class="link-row"><a href="claim-survival.html">Trace this claim</a><a href="#model-detection">Open its simulation</a></p>
+          </div>
+        </article>
+        <article data-claim-id="pipeline-disagreement" data-status="SURVIVES" data-decision="ACCEPTED">
+          <span class="claim-number">3</span>
+          <div>
+            <p class="number">PIPELINE DISAGREEMENT</p>
+            <h3>Lower source signal and processed fish-count context predict pipeline non-recovery.</h3>
+            <p><strong>Why plausible:</strong> source-positive labels were not recovered uniformly by the independently processed count table.</p>
+            <p><strong>Decision rule:</strong> finite cluster bootstraps, a non-zero interval, stable leave-out direction, and a sensitivity excluding the focal label from the count total.</p>
+            <p class="decision-reason"><span class="claim-status status-accepted">Accepted</span><span>The association held: β = −1.149; all 999 bootstraps and all 43 leave-outs agreed. It remains noncausal.</span></p>
+            <p class="link-row"><a href="claim-survival.html">Trace this claim</a><a href="#model-pipeline">Open its model</a></p>
+          </div>
+        </article>
+        <article data-claim-id="taxonomic-resolution" data-status="WITHHELD" data-decision="NON_CONCLUSIVE">
+          <span class="claim-number">4</span>
+          <div>
+            <p class="number">TAXONOMIC RESOLUTION</p>
+            <h3>Longer mitochondrial markers resolve relevant public <em>Salmo</em> species labels better than MiFish 12S.</h3>
+            <p><strong>Why plausible:</strong> longer COI and cyt-b windows contain more sequence information than the short MiFish amplicon.</p>
+            <p><strong>Decision rule:</strong> adequate multi-label coverage, no cross-label exact haplotypes, positive barcode gaps, and correct all-ties leave-one-out classification.</p>
+            <p class="decision-reason"><span class="claim-status status-non-conclusive">Non-conclusive</span><span>Only 2/7 species labels were eligible, below the minimum of four needed for comparison.</span></p>
+            <p class="link-row"><a href="claim-survival.html">Trace this claim</a><a href="#model-taxonomy">Open its benchmark</a></p>
+          </div>
+        </article>
+        <article data-claim-id="trait-diversity" data-status="FAILED_GATE" data-decision="REJECTED">
+          <span class="claim-number">5</span>
+          <div>
+            <p class="number">FUNCTIONAL TRAITS</p>
+            <h3>Downstream functional-trait diversity broadens beyond richness and prevalence alone.</h3>
+            <p><strong>Why plausible:</strong> downstream sites contained more detected labels spanning different movement, flow, and trophic traits.</p>
+            <p><strong>Decision rule:</strong> a positive Rao’s Q contrast with one-sided p ≤ 0.05 in both the primary and strict fixed-margin null analyses.</p>
+            <p class="decision-reason"><span class="claim-status status-rejected">Rejected</span><span>Neither panel met p ≤ 0.05: primary p = 0.3159; strict p = 0.1142.</span></p>
+            <p class="link-row"><a href="claim-survival.html">Trace this claim</a><a href="#model-traits">Open its null model</a></p>
+          </div>
+        </article>
+      </div>
+
+      <div class="section-actions">
+        <a class="button" href="claim-survival.html">Explore initial claim → final wording</a>
+        <a class="button secondary" href="../data/metadata/claim_survival.tsv">Open the five-row evidence register</a>
+      </div>
+    </section>
+
+    <section id="stress-tests" class="story-section" aria-labelledby="tests-heading">
+      <div class="section-kicker"><span>04</span><p>Stressing those claims with more tests</p></div>
+      <h2 id="tests-heading" data-edit-key="stress_tests.title">Stressing those claims: every claim met a different credibility test</h2>
+      <p class="section-intro" data-edit-key="stress_tests.summary">The method changed with the scientific question; the decision rule stayed explicit. Reported totals include invalid models, inadequate coverage, and unsuccessful fits rather than quietly removing them.</p>
+
+      <figure class="wide-figure">
+        <img src="assets/claim-survival.png" loading="lazy" alt="Five-row credibility audit presenting pipeline disagreement as accepted, functional-trait broadening as rejected, and the river-community, imperfect-detection, and species-resolution claims as non-conclusive.">
+        <figcaption>Final presentation tally: one accepted, one rejected, and three non-conclusive—each paired with the reason for its decision.</figcaption>
+      </figure>
+
+      <div class="audit-ledger">
+        <article class="audit-entry conditional-entry" data-decision="NON_CONCLUSIVE">
+          <div class="audit-heading">
+            <div><p class="number">CLAIM 1 · RIVER COMMUNITY</p><h3>72-family robustness multiverse</h3></div>
+            <span class="claim-status status-non-conclusive">Non-conclusive</span>
+          </div>
+          <div class="audit-columns">
+            <p><strong>Tested against</strong><br>Balanced/all-time panels, site-profile/site × time units, 14 labels/12 genera, two thresholds, full/single-library effort, three distances, 3,600 declared draws, and 75 reference leave-outs.</p>
+            <p><strong>Observed</strong><br>64/72 families valid; 64/64 valid families and 3,600/3,600 draws positive; 0/75 leave-outs reversed. Reference p = 0.0714 (2/28).</p>
+            <p><strong>Decision</strong><br><strong>Non-conclusive:</strong> the direction was stable, but 64/72 valid families (88.9%) missed the required 90%.</p>
+          </div>
+          <p class="link-row"><a href="../data/derived/impact_layerE_gate.tsv">Decision table</a><a href="../data/derived/impact_layerE_results.tsv">All 72 families</a><a href="../data/derived/impact_layerE_influence.tsv">Leave-outs</a><a href="../docs/impact_layerE_multiverse_methods.md">Methods</a></p>
+        </article>
+
+        <article class="audit-entry withheld-entry" data-decision="NON_CONCLUSIVE">
+          <div class="audit-heading">
+            <div><p class="number">CLAIM 2 · IMPERFECT DETECTION</p><h3>Known-truth recoverability atlas</h3></div>
+            <span class="claim-status status-non-conclusive">Non-conclusive</span>
+          </div>
+          <div class="audit-columns">
+            <p><strong>Tested against</strong><br>648 synthetic scenarios × 100 simulations × three estimators, varying true occupancy, prevalence structure, detection, 1–3 replicates, depth variation/coupling, missingness, and incorrect missing-data coding.</p>
+            <p><strong>Observed</strong><br>613/1,944 estimator-scenarios recoverable, 732 unreliable, and 599 non-identifiable. No baseline-detection 0.20 cell passed; one-replicate corrections were structurally non-identifiable.</p>
+            <p><strong>Decision</strong><br><strong>Non-conclusive:</strong> the real fit failed convergence and missing-data checks; the successful atlas was synthetic only.</p>
+          </div>
+          <p class="link-row"><a href="detection-lab.html">Interactive teaching simulator</a><a href="../data/derived/impact_occupancy_atlas.tsv">Complete atlas</a><a href="../data/derived/impact_occupancy_scenarios.tsv">Scenario grid</a><a href="../docs/impact_occupancy_atlas_methods.md">Methods</a></p>
+        </article>
+
+        <article class="audit-entry survives-entry" data-decision="ACCEPTED">
+          <div class="audit-heading">
+            <div><p class="number">CLAIM 3 · PIPELINE DISAGREEMENT</p><h3>Cluster-aware logistic association</h3></div>
+            <span class="claim-status status-accepted">Accepted</span>
+          </div>
+          <div class="audit-columns">
+            <p><strong>Tested against</strong><br>Exactly 2,344 source-positive comparison cells, 999 site/time/taxon block bootstraps, 43 taxon/site/timepoint leave-outs, and a focal-excluded assigned-fish count sensitivity.</p>
+            <p><strong>Observed</strong><br>Source signal coefficient −1.574 (95% bootstrap interval −2.950 to −0.807); focal-excluded count-total coefficient −1.149 (−3.086 to −0.579). 999/999 fits finite; 43/43 sensitivities negative.</p>
+            <p><strong>Decision</strong><br><strong>Accepted:</strong> β = −1.149; all 999 bootstraps were finite and all 43 leave-outs remained negative. The association is noncausal.</p>
+          </div>
+          <p class="link-row"><a href="../data/derived/impact_pipeline_model.tsv">Coefficient table</a><a href="../data/derived/impact_pipeline_bootstrap.tsv">Bootstrap draws</a><a href="../data/derived/impact_pipeline_leaveout.tsv">Leave-outs</a><a href="../docs/impact_pipeline_disagreement_methods.md">Methods</a></p>
+        </article>
+
+        <article class="audit-entry withheld-entry" data-decision="NON_CONCLUSIVE">
+          <div class="audit-heading">
+            <div><p class="number">CLAIM 4 · TAXONOMIC RESOLUTION</p><h3>Accession-backed multi-marker benchmark</h3></div>
+            <span class="claim-status status-non-conclusive">Non-conclusive</span>
+          </div>
+          <div class="audit-columns">
+            <p><strong>Tested against</strong><br>MiFish 12S, COI, and cyt-b exact sharing, normalized edit distances, barcode gaps, and conservative all-ties leave-one-accession-out classification across 21 public records.</p>
+            <p><strong>Observed</strong><br>Only 2 of 7 candidate <em>Salmo</em> labels were eligible; the minimum was four. A separate genus boundary passed 10/10 queries against each outgroup for all three markers.</p>
+            <p><strong>Decision</strong><br><strong>Non-conclusive:</strong> only 2/7 species labels were eligible, below the minimum of four. The separate genus result does not decide the species claim.</p>
+          </div>
+          <p class="link-row"><a href="../data/derived/impact_salmo_marker_gates.tsv">Marker decisions</a><a href="../data/derived/impact_salmo_loo_classification.tsv">All-ties LOO</a><a href="../data/metadata/impact_salmo_accessions.tsv">Accessions</a><a href="../docs/impact_salmo_multimarker_methods.md">Methods</a></p>
+        </article>
+
+        <article class="audit-entry failed-entry" data-decision="REJECTED">
+          <div class="audit-heading">
+            <div><p class="number">CLAIM 5 · FUNCTIONAL TRAITS</p><h3>Fixed-margin trait null model</h3></div>
+            <span class="claim-status status-rejected">Rejected</span>
+          </div>
+          <div class="audit-columns">
+            <p><strong>Tested against</strong><br>Equal-axis Gower distances, presence/absence Rao’s Q, and 9,999 checkerboard null draws per panel preserving every unit’s richness and every label’s prevalence within timepoint.</p>
+            <p><strong>Observed</strong><br>The observed contrasts were slightly above their null means, but not unusually large: primary p = 0.3159; strict sensitivity p = 0.1142.</p>
+            <p><strong>Decision</strong><br><strong>Rejected:</strong> neither panel met p ≤ 0.05 (primary 0.3159; strict 0.1142). Its scope is limited by the label and trait proxies.</p>
+          </div>
+          <p class="link-row"><a href="../data/derived/impact_trait_null_summary.tsv">Null summary</a><a href="../data/derived/impact_trait_gower.tsv">Gower matrix</a><a href="../data/derived/impact_trait_null_draws.tsv">19,998 null draws</a><a href="../docs/impact_trait_null_methods.md">Methods</a></p>
+        </article>
+      </div>
+    </section>
+
+    <section id="models" class="story-section" aria-labelledby="models-heading">
+      <div class="section-kicker"><span>05</span><p>The models and simulations used to evaluate these claims</p></div>
+      <h2 id="models-heading">The models and simulations used: five analytical engines for five claims</h2>
+      <p class="section-intro" data-edit-key="models.summary">Each model below links directly to its visual result, methods record, machine-readable output, and executable implementation. These are local files and remain usable inside the offline website bundle.</p>
+
+      <figure class="wide-figure models-overview">
+        <img src="assets/models-overview.png" loading="lazy" alt="Five-row overview connecting the five claims to their analytical engines and presenting one accepted, one rejected, and three non-conclusive decisions.">
+        <figcaption>Each engine matches its estimand and ends in the same three-state vocabulary: accepted, rejected, or non-conclusive.</figcaption>
+      </figure>
+
+      <div class="model-library">
+        <article id="model-community" class="model-panel conditional-entry" data-decision="NON_CONCLUSIVE">
+          <div class="model-heading">
+            <div><p class="number">MODEL 1 · ROBUSTNESS MULTIVERSE</p><h3>River-community specification engine</h3></div>
+            <span class="claim-status status-non-conclusive">Non-conclusive</span>
+          </div>
+          <p class="decision-reason"><strong>Reason:</strong> 64/72 model families were valid, below the required 90%, despite stable direction.</p>
+          <div class="model-layout">
+            <figure>
+              <a href="../figures/impact_layerE_multiverse.svg"><img src="../figures/impact_layerE_multiverse.png" loading="lazy" alt="Layer-E robustness matrix showing validity and downstream richness direction across 72 model families."></a>
+              <figcaption>Select the figure to open the scalable SVG.</figcaption>
+            </figure>
+            <div>
+              <dl class="model-spec">
+                <div><dt>Engine</dt><dd>Finite 72-family multiverse plus one-library draw ensembles and reference influence analysis.</dd></div>
+                <div><dt>Estimand</dt><dd>Lower-minus-upper mean detected-label richness; supporting pseudo-R², restricted p-value, and dispersion sensitivity.</dd></div>
+                <div><dt>Dependence</dt><dd>Site × timepoint is the biological unit; repeated rows move as whole-site blocks.</dd></div>
+                <div><dt>Decision rule</dt><dd>Validity ≥90%, positive direction thresholds, and no reference leave-out reversal.</dd></div>
+                <div><dt>Interpretation</dt><dd>Stable descriptive direction, not true richness, causation, or a confirmed section centroid shift.</dd></div>
+              </dl>
+              <nav class="resource-links" aria-label="River-community model resources">
+                <a href="../figures/impact_layerE_multiverse.svg">Scalable figure</a>
+                <a href="../docs/impact_layerE_multiverse_methods.md">Methods</a>
+                <a href="../data/derived/impact_layerE_gate.tsv">Decision result</a>
+                <a href="../data/derived/impact_layerE_specifications.tsv">Specifications</a>
+                <a href="../data/derived/impact_layerE_draw_results.tsv">Draw results</a>
+                <a href="../R/13_layerE_multiverse.R">R implementation</a>
+                <a href="../_site/conwy-reanalysis.html#layer-e-robustness-multiverse">Full technical result</a>
+              </nav>
+            </div>
+          </div>
+        </article>
+
+        <article id="model-detection" class="model-panel withheld-entry" data-decision="NON_CONCLUSIVE">
+          <div class="model-heading">
+            <div><p class="number">MODEL 2 · KNOWN-TRUTH SIMULATION</p><h3>Occupancy recoverability atlas</h3></div>
+            <span class="claim-status status-non-conclusive">Non-conclusive</span>
+          </div>
+          <p class="decision-reason"><strong>Reason:</strong> the real Conwy fit failed convergence and missing-data checks; the successful atlas is synthetic.</p>
+          <div class="model-layout">
+            <figure>
+              <a href="../figures/impact_occupancy_atlas.svg"><img src="../figures/impact_occupancy_atlas.png" loading="lazy" alt="Occupancy recoverability phase diagram classifying estimator-scenarios as recoverable, unreliable, or non-identifiable."></a>
+              <figcaption>Select the figure to open the scalable SVG.</figcaption>
+            </figure>
+            <div>
+              <dl class="model-spec">
+                <div><dt>Engine</dt><dd>64,800 known-truth datasets generated from a fixed random-number starting point so the simulation can be repeated exactly, then evaluated with naïve, replication-aware, and depth-aware estimators.</dd></div>
+                <div><dt>Estimand</dt><dd>Mean true occupancy across 120 ordered synthetic site × timepoint units.</dd></div>
+                <div><dt>Factors</dt><dd>Occupancy, prevalence structure, detection, replication, depth variability/coupling, missingness, and incorrect missing-data coding.</dd></div>
+                <div><dt>Decision rule</dt><dd>Joint bias, RMSE, coverage, fit-failure, and interval-failure requirements.</dd></div>
+                <div><dt>Interpretation</dt><dd>Design recoverability under the declared generator—not a Conwy occupancy estimate.</dd></div>
+              </dl>
+              <nav class="resource-links" aria-label="Occupancy simulation resources">
+                <a href="detection-lab.html">Interactive teaching simulator</a>
+                <a href="../figures/impact_occupancy_atlas.svg">Phase diagram</a>
+                <a href="../docs/impact_occupancy_atlas_methods.md">Methods</a>
+                <a href="../data/derived/impact_occupancy_atlas.tsv">1,944-cell atlas</a>
+                <a href="../data/derived/impact_occupancy_scenarios.tsv">648 scenarios</a>
+                <a href="../data/derived/impact_occupancy_manifest.json">Generator manifest</a>
+                <a href="../R/11_occupancy_recoverability_atlas.R">R implementation</a>
+                <a href="../_site/conwy-reanalysis.html#synthetic-occupancy-recoverability-atlas">Full technical result</a>
+              </nav>
+            </div>
+          </div>
+        </article>
+
+        <article id="model-pipeline" class="model-panel survives-entry" data-decision="ACCEPTED">
+          <div class="model-heading">
+            <div><p class="number">MODEL 3 · CLUSTER-AWARE ASSOCIATION</p><h3>Pipeline-disagreement logistic model</h3></div>
+            <span class="claim-status status-accepted">Accepted</span>
+          </div>
+          <p class="decision-reason"><strong>Reason:</strong> β = −1.149; all 999 bootstraps were finite and all 43 leave-outs remained negative.</p>
+          <div class="model-layout">
+            <figure>
+              <a href="../figures/impact_pipeline_disagreement.svg"><img src="../figures/impact_pipeline_disagreement.png" loading="lazy" alt="Pipeline-disagreement coefficient and sensitivity figure showing negative source-signal and focal-excluded count-total associations."></a>
+              <figcaption>Select the figure to open the scalable SVG.</figcaption>
+            </figure>
+            <div>
+              <dl class="model-spec">
+                <div><dt>Engine</dt><dd>Logistic regression with site-, time-, and taxon-aware block-bootstrap uncertainty.</dd></div>
+                <div><dt>Outcome</dt><dd>Source-positive/reprocessed-negative disagreement within 2,344 verified comparison cells.</dd></div>
+                <div><dt>Predictors</dt><dd>Source relative abundance, processed count context, prevalence, section, and season; focal-excluded sensitivity removes direct part-whole coupling.</dd></div>
+                <div><dt>Decision rule</dt><dd>≥95% finite bootstraps, interval excluding zero, ≥90% sign stability, and no group reversal.</dd></div>
+                <div><dt>Interpretation</dt><dd>Comparator-relative association—not causal loss, abundance, or a biological false-negative rate.</dd></div>
+              </dl>
+              <nav class="resource-links" aria-label="Pipeline-disagreement model resources">
+                <a href="../figures/impact_pipeline_disagreement.svg">Scalable figure</a>
+                <a href="../docs/impact_pipeline_disagreement_methods.md">Methods</a>
+                <a href="../data/derived/impact_pipeline_model.tsv">Model coefficients</a>
+                <a href="../data/derived/impact_pipeline_summary.tsv">Summary</a>
+                <a href="../data/derived/impact_pipeline_bootstrap.tsv">999 bootstraps</a>
+                <a href="../data/derived/impact_pipeline_leaveout.tsv">43 leave-outs</a>
+                <a href="../R/15_pipeline_disagreement.R">R implementation</a>
+                <a href="../_site/conwy-reanalysis.html#cluster-aware-pipeline-disagreement">Full technical result</a>
+              </nav>
+            </div>
+          </div>
+        </article>
+
+        <article id="model-taxonomy" class="model-panel withheld-entry" data-decision="NON_CONCLUSIVE">
+          <div class="model-heading">
+            <div><p class="number">MODEL 4 · ACCESSION BENCHMARK</p><h3>Multi-marker <em>Salmo</em> resolution model</h3></div>
+            <span class="claim-status status-non-conclusive">Non-conclusive</span>
+          </div>
+          <p class="decision-reason"><strong>Reason:</strong> only 2/7 species labels were eligible, below the minimum of four needed for comparison.</p>
+          <div class="model-layout">
+            <figure>
+              <a href="../figures/impact_salmo_multimarker.svg"><img src="../figures/impact_salmo_multimarker.png" loading="lazy" alt="Multi-marker Salmo benchmark showing label eligibility and genus-boundary results for MiFish 12S, COI, and cyt-b."></a>
+              <figcaption>Select the figure to open the scalable SVG.</figcaption>
+            </figure>
+            <div>
+              <dl class="model-spec">
+                <div><dt>Engine</dt><dd>Exact-haplotype sharing, normalized global edit distance, barcode gaps, and all-ties nearest-neighbour classification.</dd></div>
+                <div><dt>Inputs</dt><dd>Accession-backed MiFish 12S, 648-bp COI, and 1,140-bp cyt-b windows from a locally cached public-record panel.</dd></div>
+                <div><dt>Estimand</dt><dd>Finest submitted taxonomic annotation consistently discriminated within the audited panel.</dd></div>
+                <div><dt>Decision rule</dt><dd>At least four eligible species labels plus perfect conservative LOO, no cross-label exact haplotypes, and positive barcode gaps.</dd></div>
+                <div><dt>Interpretation</dt><dd>Submitted-label discrimination—not label truth, local identity, stock, ancestry, hybrid status, or abundance.</dd></div>
+              </dl>
+              <nav class="resource-links" aria-label="Taxonomic benchmark resources">
+                <a href="../figures/impact_salmo_multimarker.svg">Scalable figure</a>
+                <a href="../docs/impact_salmo_multimarker_methods.md">Methods</a>
+                <a href="../data/derived/impact_salmo_marker_gates.tsv">Marker decisions</a>
+                <a href="../data/derived/impact_salmo_barcode_gaps.tsv">Barcode gaps</a>
+                <a href="../data/derived/impact_salmo_loo_classification.tsv">LOO classifications</a>
+                <a href="../data/metadata/impact_salmo_accessions.tsv">Accession manifest</a>
+                <a href="../R/12_salmo_multimarker_benchmark.R">R implementation</a>
+                <a href="../_site/conwy-reanalysis.html#accession-backed-salmo-multi-marker-benchmark">Full technical result</a>
+              </nav>
+            </div>
+          </div>
+        </article>
+
+        <article id="model-traits" class="model-panel failed-entry" data-decision="REJECTED">
+          <div class="model-heading">
+            <div><p class="number">MODEL 5 · FIXED-MARGIN NULL</p><h3>Functional-trait broadening test</h3></div>
+            <span class="claim-status status-rejected">Rejected</span>
+          </div>
+          <p class="decision-reason"><strong>Reason:</strong> neither null panel met p ≤ 0.05 (primary 0.3159; strict 0.1142).</p>
+          <div class="model-layout">
+            <figure>
+              <a href="../figures/impact_trait_null_model.svg"><img src="../figures/impact_trait_null_model.png" loading="lazy" alt="Functional-trait null distributions comparing observed downstream Rao's Q contrasts with 9,999 fixed-margin draws in primary and strict panels."></a>
+              <figcaption>Select the figure to open the scalable SVG.</figcaption>
+            </figure>
+            <div>
+              <dl class="model-spec">
+                <div><dt>Engine</dt><dd>Equal-axis mixed-trait Gower distance, presence/absence Rao’s quadratic entropy, and fixed-fixed checkerboard randomization.</dd></div>
+                <div><dt>Estimand</dt><dd>Lower-minus-upper site-level mean Rao’s Q contrast.</dd></div>
+                <div><dt>Preserved null structure</dt><dd>Every unit’s richness and every label’s prevalence within each of 11 timepoints.</dd></div>
+                <div><dt>Decision rule</dt><dd>Positive observed contrast and one-sided p ≤ 0.05 in both primary and strict panels, with valid unique null support.</dd></div>
+                <div><dt>Interpretation</dt><dd>No beyond-richness mechanism; scope limited by analysis-label assignments and trait proxies.</dd></div>
+              </dl>
+              <nav class="resource-links" aria-label="Functional-trait null-model resources">
+                <a href="../figures/impact_trait_null_model.svg">Scalable figure</a>
+                <a href="../docs/impact_trait_null_methods.md">Methods</a>
+                <a href="../data/derived/impact_trait_null_summary.tsv">Result summary</a>
+                <a href="../data/derived/impact_trait_gower.tsv">Gower matrix</a>
+                <a href="../data/derived/impact_trait_unit_rao.tsv">Unit-level Rao’s Q</a>
+                <a href="../data/derived/impact_trait_null_draws.tsv">19,998 null draws</a>
+                <a href="../R/14_trait_null_model.R">R implementation</a>
+                <a href="../_site/conwy-reanalysis.html#functional-trait-fixed-margin-null">Full technical result</a>
+              </nav>
+            </div>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section id="verdict" class="story-section" aria-labelledby="verdict-heading">
+      <div class="section-kicker"><span>06</span><p>Our final verdict</p></div>
+      <h2 id="verdict-heading" data-edit-key="verdict.title">Our final verdict: a narrower and stronger scientific statement</h2>
+
+      <div class="verdict-band">
+        <p><strong>Accepted:</strong> the bounded, comparator-relative pipeline association met its declared rule.</p>
+        <p><strong>Rejected:</strong> functional-trait broadening beyond richness and prevalence did not meet its null-model rule. <strong>Non-conclusive:</strong> river-community robustness, real rare-label occupancy correction, and species-level <em>Salmo</em> resolution could not be decided validly with the available evidence.</p>
+        <p><strong>Final tally:</strong> 1 accepted · 1 rejected · 3 non-conclusive.</p>
+      </div>
+
+      <div class="status-grid verdict-grid">
+        <article class="status-card established-card" data-decision="ACCEPTED">
+          <p class="number">ACCEPTED</p>
+          <h3>Pipeline disagreement</h3>
+          <p><strong>Reason:</strong> β = −1.149; all 999 bootstraps were finite and all 43 leave-outs remained negative. The association is comparator-relative and noncausal; it is not a biological false-negative rate.</p>
+          <p class="link-row"><a href="#model-pipeline">Review model</a><a href="../data/derived/impact_pipeline_model.tsv">Inspect coefficients</a></p>
+        </article>
+        <article class="status-card rejected-card" data-decision="REJECTED">
+          <p class="number">REJECTED</p>
+          <h3>Functional-trait broadening</h3>
+          <p><strong>Reason:</strong> neither fixed-margin null panel met p ≤ 0.05 (primary 0.3159; strict 0.1142).</p>
+          <p class="link-row"><a href="#model-traits">Review null model</a><a href="../data/derived/impact_trait_null_summary.tsv">Inspect results</a></p>
+        </article>
+        <article class="status-card nonconclusive-card" data-decision="NON_CONCLUSIVE">
+          <p class="number">NON-CONCLUSIVE</p>
+          <h3>Three claims lacked decisive evidence</h3>
+          <ul class="verdict-reasons">
+            <li><strong>River community:</strong> stable descriptive downstream broadening, but 64/72 valid families missed the 90% requirement.</li>
+            <li><strong>Rare-label occupancy:</strong> the real fit failed convergence and missing-data checks.</li>
+            <li><strong><em>Salmo</em> resolution:</strong> only 2/7 labels were eligible; four were required.</li>
+          </ul>
+          <p class="link-row"><a href="claim-survival.html">Review all limitations</a><a href="../docs/phase3-claim-status.md">Open claim register</a></p>
+        </article>
+      </div>
+
+      <p class="source-note"><strong>Scope boundary:</strong> Layer A coefficients or survey utility remain not claimed.</p>
+
+      <div class="scientific-addition">
+        <p class="eyebrow">Scientific addition</p>
+        <h3 data-edit-key="contribution.title">A reproducible credibility-audit framework</h3>
+        <p data-edit-key="contribution.body">The project’s contribution is not that every starting hypothesis was correct. It is a reproducible workflow whose questions, tests, and verdict rules were written in a dated project plan before analysis. It links each claim to what was measured, how it was stressed, the evidence, the limitation, and the verdict—and explains why each claim is accepted, rejected, or non-conclusive.</p>
+        <div class="section-actions">
+          <a class="button" href="claim-survival.html">Open the complete claim-survival map</a>
+          <a class="button secondary" href="../docs/impact-sprint-preregistration.md">Read the pre-analysis decision record</a>
+        </div>
+      </div>
+
+      <div class="next-evidence">
+        <h3 data-edit-key="next_evidence.title">What would change the verdict?</h3>
+        <div>
+          <p><strong>Detection:</strong> independently validated biological truth, balanced replication, and sequencing depth separated from the river gradient.</p>
+          <p><strong>Taxonomy:</strong> voucher-backed records for at least four relevant <em>Salmo</em> labels and a rerun of the same all-ties decision rule recorded before testing.</p>
+          <p><strong>Traits:</strong> verified occurrences, population-specific traits, and independent abundance or habitat measurements.</p>
+          <p><strong>Pipeline:</strong> mock communities and quantified templates that partition extraction, sequencing, filtering, and assignment losses.</p>
+        </div>
+      </div>
+
+      <div class="artifact-grid final-routes">
+        <article class="artifact"><h3 data-edit-key="routes.brief.title">Six-part research brief</h3><p data-edit-key="routes.brief.body">The concise narrative with the same structure and headline evidence, expanded into a four-page visual PDF with five model architecture diagrams.</p><a href="research_brief.html">Open HTML brief</a> · <a href="../output/pdf/RESEARCH_BRIEF.pdf">Open four-page PDF</a></article>
+        <article class="artifact"><h3 data-edit-key="routes.report.title">Technical report</h3><p data-edit-key="routes.report.body">Full methods, validation history, scientific results, limitations, and provenance.</p><a href="../_site/conwy-reanalysis.html">Open report</a> · <a href="../report/conwy-reanalysis.qmd">Open source</a></article>
+        <article class="artifact"><h3 data-edit-key="routes.catalogue.title">Complete evidence catalogue</h3><p data-edit-key="routes.catalogue.body">Every presentation, method, result table, code path, receipt, and governance record.</p><a href="deliverables.html">Browse deliverables</a> · <a href="../README.md">Read README</a></article>
+        <article class="artifact"><h3 data-edit-key="routes.release.title">Reproducible release</h3><p data-edit-key="routes.release.body">Documented entry points, repeatable simulation settings, local inputs, build scripts, and verification checks.</p><a href="../START_HERE.md">Reproduce the project</a> · <a href="../scripts/run_impact_sprint.py">Inspect impact runner</a></article>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <span>Reanalysis of <a href="https://doi.org/10.1038/s41467-024-48640-3">Perry et al. 2024</a>. Local static release; no publication, production MCMC, or hosted service is implied.</span>
+    <span><a href="research_brief.html">Brief</a> · <a href="claim-survival.html">Claim map</a> · <a href="deliverables.html">All deliverables</a></span>
+  </footer>
+</body>
+</html>

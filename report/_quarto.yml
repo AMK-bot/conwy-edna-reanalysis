@@ -1,0 +1,26 @@
+project:
+  type: default
+  output-dir: ../_site
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-fold: true
+    embed-resources: true
+
+execute:
+  # Caching convention (P6) — "one render reproduces everything" WITHOUT re-running
+  # the multi-hour steps on every render:
+  #   1. freeze: auto — Quarto re-executes a chunk only when ITS source changes,
+  #      and caches results under report/_freeze/ (committed) for everyone else.
+  #   2. Heavy compute (02_dada2.R DADA2, 06_occupancy_occumb.R MCMC) lives in the
+  #      0X scripts, NOT in .qmd chunks. Each writes an .rds checkpoint under the
+  #      git-ignored data/derived/ and is guarded:
+  #        rds <- "data/derived/dada2_seqtab.rds"
+  #        if (!file.exists(rds)) { <hours of compute>; saveRDS(x, rds) } else x <- readRDS(rds)
+  #   3. The .qmd READS those .rds (fast) and never recomputes them. So a clean
+  #      `quarto render` is minutes, and the heavy steps re-run only when their
+  #      checkpoint is deleted (i.e. when the upstream method actually changed).
+  freeze: auto
+  warning: false

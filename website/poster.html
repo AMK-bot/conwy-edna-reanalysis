@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>River Conwy eDNA - one-page poster</title>
+  <link rel="stylesheet" href="assets/style.css">
+  <style>
+    .poster { width: min(1400px, calc(100% - 32px)); margin: 28px auto; }
+    .poster-head { padding: 28px 34px; color: #fff; background: #075563; }
+    .poster-head h1 { max-width: none; font-size: clamp(2rem, 5vw, 4.3rem); }
+    .poster-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 16px; }
+    .panel { padding: 18px; background: #fff; }
+    .panel img { width: 100%; height: 260px; object-fit: contain; }
+    .lesson { margin-top: 16px; padding: 18px 24px; font-size: 1.15rem; font-weight: 750; background: #fff4dc; border-left: 6px solid #b56b16; }
+    @media (max-width: 850px) { .poster-grid { grid-template-columns: 1fr; } }
+    @media print {
+      @page { size: A4 landscape; margin: 8mm; }
+      body { margin: 0; }
+      .poster { width: 100%; margin: 0; }
+      .poster-head { padding: 7mm; }
+      .poster-head h1 { font-size: 23pt; }
+      .poster-grid { grid-template-columns: repeat(3, 1fr); gap: 4mm; }
+      .panel { padding: 4mm; }
+      .panel img { height: 65mm; }
+      .panel p, .panel li { font-size: 8.2pt; line-height: 1.3; }
+      .lesson { font-size: 10pt; padding: 4mm; }
+    }
+  </style>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to the poster</a>
+  <header>
+    <nav class="site-nav" aria-label="Project website">
+      <a class="brand" href="index.html">River Conwy eDNA</a>
+      <div><a href="index.html">Home</a><a href="claim-survival.html">Claim audit</a><a href="index.html#models">Models</a><a href="research_brief.html">Full brief</a><a href="deliverables.html">Deliverables</a><a href="../output/pdf/POSTER.pdf">Poster PDF</a></div>
+    </nav>
+  </header>
+  <main class="poster" id="main-content">
+    <header class="poster-head">
+      <p class="eyebrow" style="color:#cbe7eb">River Conwy fish eDNA reanalysis</p>
+      <h1>More data, less certainty?</h1>
+      <p>Community ecology | recoverability | pipeline disagreement | molecular resolution | functional traits</p>
+    </header>
+    <div class="poster-grid">
+      <section class="panel">
+        <p class="number">01 / RIVER</p>
+        <h2>Detected labels broaden downstream</h2>
+        <img src="assets/community-gradient.png" alt="Median detected-label richness broadens downstream across 11 common timepoints.">
+        <p>The direction remains positive in all 64 valid multiverse families and 3,600 one-library draws, with 0/75 leave-out reversals. But 64/72 validity misses the full 90% gate; PERMANOVA remains p = 0.0714.</p>
+      </section>
+      <section class="panel">
+        <p class="number">02 / SEQUENCE</p>
+        <h2>Genus is stable; species is not</h2>
+        <img src="assets/salmo-resolution.png" alt="Three comparisons give different Salmo species-level labels for ASV0001.">
+        <p>Three 100%-identity comparisons disagree at species. MiFish, COI and cyt-b each pass a record-level genus boundary, but only 2 of 7 candidate labels are eligible; the species gate requires at least 4.</p>
+      </section>
+      <section class="panel">
+        <p class="number">03 / CLAIMS</p>
+        <h2>Evidence changes the sentence</h2>
+        <img src="assets/claim-survival.png" alt="Five claims classified as one accepted, one rejected and three non-conclusive after credibility audits, with a reason for each decision.">
+        <p><strong>Accepted:</strong> the scoped pipeline association. <strong>Rejected:</strong> trait broadening beyond fixed margins. <strong>Non-conclusive:</strong> river robustness, real occupancy correction and longer-marker species resolution, because validity, fit or coverage was insufficient.</p>
+      </section>
+    </div>
+    <div class="lesson">Central lesson: rejected and non-conclusive outcomes remain scientific results when their reasons stay visible. <a href="claim-survival.html">Trace all five claims</a>.</div>
+    <p class="small">Source dataset: Perry et al. (2024), <em>Nature Communications</em> 15:4372. <a href="https://doi.org/10.1038/s41467-024-48640-3">doi:10.1038/s41467-024-48640-3</a>.</p>
+  </main>
+</body>
+</html>

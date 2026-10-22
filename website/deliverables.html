@@ -1,0 +1,368 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Complete local deliverables catalogue for the River Conwy fish-eDNA reanalysis, with scope, audience, and verified links.">
+  <title>Deliverables | River Conwy fish-eDNA reanalysis</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to the deliverables</a>
+  <header>
+    <nav class="site-nav" aria-label="Project website">
+      <a class="brand" href="index.html">River Conwy eDNA</a>
+      <div>
+        <a href="index.html">Home</a>
+        <a href="claim-survival.html">Claim audit</a>
+        <a href="index.html#models">Models</a>
+        <a href="research_brief.html">Full brief</a>
+        <a href="deliverables.html" aria-current="page">Deliverables</a>
+        <a href="../START_HERE.md">Reproduce</a>
+      </div>
+    </nav>
+    <div class="catalog-hero">
+      <div>
+        <p class="eyebrow">Complete local release catalogue</p>
+        <h1>Every deliverable, with its purpose and limits.</h1>
+        <p class="lede">This page maps the scientific story to the report, evidence, code, presentation materials, and verification receipts. It distinguishes finished local outputs from exploratory analyses.</p>
+      </div>
+      <aside class="hero-note" aria-label="Release scope">
+        <strong>Release scope</strong>
+        <p><b>Local and offline:</b> no hosted service is required.</p>
+        <p><b>Audited:</b> links, page counts, evidence dimensions, claim gates, and the rendered report are checked automatically.</p>
+        <p><b>Not implied:</b> publication, a public repository, confirmed authorship, or final rare-species occupancy estimates.</p>
+      </aside>
+    </div>
+  </header>
+
+  <main id="main-content">
+    <section aria-labelledby="route-title">
+      <p class="eyebrow">Choose a route</p>
+      <h2 id="route-title">Start at the depth you need</h2>
+      <div class="route-grid">
+        <article class="route-card">
+          <p class="number">5 MINUTES</p>
+          <h3>Understand the story</h3>
+          <p>Read the illustrated brief for the biological question, three defensible findings, and the claim boundary.</p>
+          <div class="link-row"><a href="research_brief.html">Research brief</a><a href="../output/pdf/RESEARCH_BRIEF.pdf">Four-page visual PDF</a></div>
+        </article>
+        <article class="route-card">
+          <p class="number">10–15 MINUTES</p>
+          <h3>Explore the reasoning</h3>
+          <p>Trace five claims through their gates, then inspect the synthetic atlas or accession-backed marker benchmark.</p>
+          <div class="link-row"><a href="claim-survival.html">Claim-survival map</a><a href="../figures/impact_occupancy_atlas.svg">Recoverability atlas</a><a href="../figures/impact_salmo_multimarker.svg">Marker benchmark</a></div>
+        </article>
+        <article class="route-card">
+          <p class="number">30+ MINUTES</p>
+          <h3>Audit the science</h3>
+          <p>Read the technical report alongside the validation gate and the register of allowed and withheld claims.</p>
+          <div class="link-row"><a href="../_site/conwy-reanalysis.html">Technical report</a><a href="../docs/phase3-claim-status.md">Claim register</a></div>
+        </article>
+        <article class="route-card">
+          <p class="number">REPRODUCE</p>
+          <h3>Rebuild the local edition</h3>
+          <p>Follow one lightweight command path to regenerate the complete visual set and both PDFs.</p>
+          <div class="link-row"><a href="../START_HERE.md">Start here</a><a href="../scripts/verify_release.py">Inspect the verifier</a></div>
+        </article>
+      </div>
+    </section>
+
+    <section aria-labelledby="catalog-title">
+      <p class="eyebrow">Deliverables catalogue</p>
+      <h2 id="catalog-title">Outputs grouped by use</h2>
+      <p class="section-intro">Every deliverable named in the local release plan appears below. Low-level intermediate files remain traceable through the technical report and data dictionary.</p>
+
+      <details class="catalog-section" open>
+        <summary><span>Presentation and communication</span><small>Website, brief, poster, interactive lab, and preparation materials</small></summary>
+        <div class="deliverable-grid">
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">Interactive HTML</span><span class="badge final">Checked synthesis</span></div>
+            <h3>Claim-survival map</h3>
+            <p>Five initial claims traced through credibility audit, exact gate, limitation, surviving wording, and the next evidence required. Every path links to its table, method and figure.</p>
+            <p class="audience"><strong>Best for:</strong> seeing how scientific evidence changes the sentence.</p>
+            <div class="link-row"><a href="claim-survival.html">Open map</a><a href="../data/metadata/claim_survival.tsv">Open register</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">HTML</span><span class="badge final">Final local artifact</span></div>
+            <h3>Project website</h3>
+            <p>The narrative front door: project summary, three findings, self-correction trail, claim boundary, and featured outputs.</p>
+            <p class="audience"><strong>Best for:</strong> first-time readers and reviewers.</p>
+            <div class="link-row"><a href="index.html">Open homepage</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">HTML</span><span class="badge">PDF · 4 pages</span></div>
+            <h3>Research brief</h3>
+            <p>A minimalist six-part account of the question, documentation trail, five initial claims, stress tests, five model architecture diagrams, and final scientific verdict.</p>
+            <p class="audience"><strong>Best for:</strong> a five-minute review or printable handout.</p>
+            <div class="link-row"><a href="research_brief.html">Open research brief</a><a href="../output/pdf/RESEARCH_BRIEF.pdf">Open PDF</a><a href="visual-brief.html">Open compact HTML</a><a href="research_brief.md">Inspect source</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">Interactive HTML</span><span class="badge final">Synthetic</span></div>
+            <h3>Detection and occupancy laboratory</h3>
+            <p>A fixed-seed simulator for changing occupancy, per-replicate detection, replication, depth, and gradient coupling. It is a teaching counterexample, not a fitted Conwy model.</p>
+            <p class="audience"><strong>Best for:</strong> learning why non-detection is not absence.</p>
+            <div class="link-row"><a href="detection-lab.html">Open simulator</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">HTML</span><span class="badge">PDF · 1 page</span></div>
+            <h3>Scientific poster</h3>
+            <p>A one-page visual route through the river pattern, molecular resolution limit, and failed model claim gate.</p>
+            <p class="audience"><strong>Best for:</strong> display, interview discussion, or rapid orientation.</p>
+            <div class="link-row"><a href="poster.html">Open HTML</a><a href="../output/pdf/POSTER.pdf">Open PDF</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">SVG + PNG</span><span class="badge">Evidence note</span></div>
+            <h3><em>Salmo</em> molecular-detective vignette</h3>
+            <p>An annotated alignment and haplotype network showing why the 170-bp ASV is stable at genus but not identifiable at species from this marker/reference set.</p>
+            <p class="audience"><strong>Best for:</strong> demonstrating molecular reasoning and taxonomic restraint.</p>
+            <div class="link-row"><a href="../figures/salmo_molecular_detective.svg">Open figure</a><a href="../docs/salmo_molecular_detective_methods.md">Read methods</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">Cited evidence note</span><span class="badge provisional">Site-aware</span></div>
+            <h3>Fish-trait and ecology interpretation</h3>
+            <p>A conservatively sourced trait table and section-aware interpretation. Mechanisms are framed as hypotheses, not causal results.</p>
+            <p class="audience"><strong>Best for:</strong> connecting sequence observations to biosciences context.</p>
+            <div class="link-row"><a href="../docs/fish-trait-ecology.md">Read interpretation</a><a href="../docs/fish_traits_evidence_notes.md">Inspect sources</a></div>
+          </article>
+        </div>
+      </details>
+
+      <details class="catalog-section" open>
+        <summary><span>Phase-5 scientific-impact extensions</span><small>Five predeclared claim audits plus their checked synthesis</small></summary>
+        <div class="deliverable-grid">
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">648 scenarios</span><span class="badge provisional">NON-CONCLUSIVE</span></div>
+            <h3>Occupancy recoverability atlas</h3>
+            <p><strong>Reason:</strong> the real fit failed, and this synthetic 1,944-cell atlas cannot estimate Conwy occupancy. It maps 613 recoverable, 732 unreliable and 599 non-identifiable estimator-scenarios.</p>
+            <div class="link-row"><a href="../figures/impact_occupancy_atlas.svg">Open atlas</a><a href="../data/derived/impact_occupancy_atlas.tsv">Open result grid</a><a href="../docs/impact_occupancy_atlas_methods.md">Read methods</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">MiFish + COI + cyt-b</span><span class="badge provisional">NON-CONCLUSIVE</span></div>
+            <h3>Accession-backed <em>Salmo</em> benchmark</h3>
+            <p><strong>Reason:</strong> only 2 of 7 candidate species labels were eligible, below the required minimum of 4. The separate record-level genus check was 10/10 across all three markers.</p>
+            <div class="link-row"><a href="../figures/impact_salmo_multimarker.svg">Open benchmark</a><a href="../data/derived/impact_salmo_marker_gates.tsv">Open gates</a><a href="../docs/impact_salmo_multimarker_methods.md">Read methods</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">72 families</span><span class="badge provisional">NON-CONCLUSIVE</span></div>
+            <h3>Layer-E robustness multiverse</h3>
+            <p><strong>Reason:</strong> validity was 64/72, below the 90% decision rule. The direction nevertheless remained positive in all 64 valid families, all 3,600 draws and all 75 leave-outs.</p>
+            <div class="link-row"><a href="../figures/impact_layerE_multiverse.svg">Open multiverse</a><a href="../data/derived/impact_layerE_gate.tsv">Open gate</a><a href="../docs/impact_layerE_multiverse_methods.md">Read methods</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">9,999 + 9,999 null draws</span><span class="badge withheld">REJECTED</span></div>
+            <h3>Functional-trait fixed-margin null</h3>
+            <p><strong>Reason:</strong> neither adequate fixed-margin null test supported beyond-richness broadening: p = 0.3159 and 0.1142, both above 0.05.</p>
+            <div class="link-row"><a href="../figures/impact_trait_null_model.svg">Open figure</a><a href="../data/derived/impact_trait_null_summary.tsv">Open summary</a><a href="../docs/impact_trait_null_methods.md">Read methods</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">2,344 cells</span><span class="badge final">ACCEPTED</span></div>
+            <h3>Cluster-aware pipeline disagreement</h3>
+            <p><strong>Reason:</strong> all 999 paired block-bootstrap fits were finite and all 43 leave-outs retained the negative direction. The accepted claim remains comparator-relative and noncausal, not a biological false-negative rate.</p>
+            <div class="link-row"><a href="../figures/impact_pipeline_disagreement.svg">Open figure</a><a href="../data/derived/impact_pipeline_model.tsv">Open effects</a><a href="../docs/impact_pipeline_disagreement_methods.md">Read methods</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">TSV + offline HTML</span><span class="badge final">Five claims reconciled</span></div>
+            <h3>Claim register and map</h3>
+            <p>A deterministic builder reads the five gate outputs and refuses denominator or status drift before writing the portable claim register and reader view.</p>
+            <div class="link-row"><a href="claim-survival.html">Open map</a><a href="../data/metadata/claim_survival.tsv">Open register</a><a href="../docs/impact-sprint-preregistration.md">Frozen specification</a><a href="../scripts/build_claim_survival.py">Inspect builder</a></div>
+          </article>
+        </div>
+      </details>
+
+      <details class="catalog-section" open>
+        <summary><span>Scientific synthesis and figures</span><small>Technical narrative, manuscript scaffold, and analysis outputs</small></summary>
+        <div class="deliverable-grid">
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">Rendered HTML</span><span class="badge final">Technical record</span></div>
+            <h3>Quarto technical report</h3>
+            <p>The complete local narrative for data provenance, Phase 1 detection models, Phase 2 concordance, and Layers E, A, and B.</p>
+            <p class="audience"><strong>Scope:</strong> reads verified local checkpoints; it does not claim a clean-clone 71 GB raw-read rerun.</p>
+            <div class="link-row"><a href="../_site/conwy-reanalysis.html">Open report</a><a href="../report/conwy-reanalysis.qmd">Inspect source</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">Markdown</span><span class="badge provisional">Local evidence draft</span></div>
+            <h3>Manuscript scaffold</h3>
+            <p>A structured abstract, methods, results, limitations, and claim boundary.</p>
+            <p class="audience"><strong>Scope:</strong> not submission-ready.</p>
+            <div class="link-row"><a href="../docs/preprint-draft.md">Read draft</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">Figure set</span><span class="badge final">Layer E</span></div>
+            <h3>Community-ecology figures</h3>
+            <p>Restricted site/time ordination, dispersion, coverage, and exploratory differential-assignment screens. The interpretation remains descriptive where exact p-values exceed 0.05.</p>
+            <div class="link-row"><a href="../figures/phase3_layerE_ordination.png">Ordination</a><a href="../figures/phase3_layerE_betadisper.png">Dispersion</a><a href="../figures/phase3_layerE_inext_section.png">Section coverage</a><a href="../figures/phase3_layerE_inext_season.png">Season coverage</a><a href="../figures/phase3_layerE_da_indicator.png">DA/indicator screen</a><a href="../data/derived/layerE_inference_design.tsv">Inference design</a><a href="../data/derived/layerE_permanova.tsv">PERMANOVA table</a><a href="../data/derived/layerE_betadisper.tsv">Dispersion table</a><a href="../data/derived/layerE_da_consensus.tsv">DA consensus</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">Figure + TSV</span><span class="badge final">Bounded Phase 1</span></div>
+            <h3>Common-label occupancy on-ramp</h3>
+            <p>Occupancy-versus-detection results for six preselected, commonly detected analysis labels. This panel does not generalise to sparse labels.</p>
+            <div class="link-row"><a href="../figures/phase1_psi_vs_p.png">Open figure</a><a href="../data/metadata/phase1_occupancy_estimates.tsv">Open estimates</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">Figure set</span><span class="badge final">Validation + taxonomy</span></div>
+            <h3>Concordance and database figures</h3>
+            <p>Phase 2 compositional/detection concordance and Layer B assignment sensitivity across current resources.</p>
+            <div class="link-row"><a href="../figures/phase2_concordance_braycurtis.png">Composition</a><a href="../figures/phase2_concordance_occupancy.png">Detection cells</a><a href="../data/derived/concordance_summary.tsv">Concordance table</a><a href="../figures/reclassB_assignment_and_drift.png">Assignment audit</a><a href="../figures/reclassB_indepDB.png">Resource comparison</a><a href="../data/derived/reclassB_assignment_rates.tsv">Assignment rates</a><a href="../data/derived/reclassB_drift_catalogue.tsv">Neutral audit catalogue</a><a href="../data/derived/reclassB_indepDB_summary.tsv">Resource summary</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">Figure + receipt</span><span class="badge withheld">Withheld numerical claim</span></div>
+            <h3>Layer A recovery claim gate</h3>
+            <p>The recovery-study convergence failure is itself the deliverable. Old numerical figure paths are replaced by withheld-status cards so they cannot be mistaken for final results.</p>
+            <div class="link-row"><a href="../figures/phase3_sim_recovery.png">Open gate figure</a><a href="../docs/phase3-claim-status.md">Read claim register</a><a href="../data/metadata/layerA_recovery_status.tsv">Open status receipt</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">PDF</span><span class="badge">Source-study support</span></div>
+            <h3>Supplementary information</h3>
+            <p>A local supporting copy of the source-study supplementary information, kept separate from project-authored conclusions.</p>
+            <div class="link-row"><a href="../docs/supplementary_information.pdf">Open PDF</a><a href="https://doi.org/10.1038/s41467-024-48640-3">Source-study DOI</a></div>
+          </article>
+        </div>
+      </details>
+
+      <details class="catalog-section">
+        <summary><span>Evidence and validation</span><small>Receipts that make the claims auditable</small></summary>
+        <div class="deliverable-grid">
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">Validation gate</span><span class="badge final">PASS with caveats</span></div>
+            <h3>Phase 2 concordance audit</h3>
+            <p>Documents the comparison over 642 shared libraries, the database-namespace crosswalk, pooled detection-cell deficit, and its limits.</p>
+            <div class="link-row"><a href="../docs/phase2-validation-gate.md">Read validation gate</a><a href="../docs/phase3-readiness.md">Read Phase 3 readiness audit</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">Provenance</span><span class="badge">Controls</span></div>
+            <h3>Data identity and control receipts</h3>
+            <p>Verifies the Conwy-only ENA join, published matrix structure, covariate join, and the 79-listed/77-entering negative-control reconciliation.</p>
+            <div class="link-row"><a href="../data/metadata/ena_join_verification.md">ENA join</a><a href="../data/metadata/source_data_verification.md">Source matrix</a><a href="../data/metadata/covariate_join_verification.md">Covariates</a><a href="../data/metadata/control_reconciliation.md">Controls</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">TSV</span><span class="badge">Cited traits</span></div>
+            <h3>Fish-trait evidence tables</h3>
+            <p>Fourteen mapped analysis labels, source citations, explicit proxy flags, and site-aware section summaries.</p>
+            <div class="link-row"><a href="../data/metadata/fish_traits.tsv">Trait table</a><a href="../data/metadata/fish_traits_sources.tsv">Source table</a><a href="../data/metadata/fish_trait_section_summary.tsv">Guild-section summary</a><a href="../data/metadata/fish_species_section_prevalence.tsv">Label-section prevalence</a><a href="../docs/salmo_fish_traits_validation_receipt.md">Validation receipt</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">FASTA + TSV</span><span class="badge">Molecular provenance</span></div>
+            <h3><em>Salmo</em> sequence evidence</h3>
+            <p>Nine 170-bp records, alignment, accession provenance, edit-distance matrix, and classifier comparison receipt.</p>
+            <div class="link-row"><a href="../data/metadata/salmo_reference_amplicons.fasta">Amplicons</a><a href="../data/metadata/salmo_sequence_alignment.tsv">Alignment</a><a href="../data/metadata/salmo_edit_distance_matrix.tsv">Edit distances</a><a href="../data/metadata/salmo_reference_provenance.tsv">Reference provenance</a><a href="../data/metadata/salmo_classifier_provenance.tsv">Classifier provenance</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">Data dictionary</span><span class="badge">Design map</span></div>
+            <h3>Data and sampling documentation</h3>
+            <p>Field definitions, source boundaries, missing-occasion rules, and the machine-readable 14-site/18-timepoint design.</p>
+            <div class="link-row"><a href="../data/metadata/data_dictionary.md">Data dictionary</a><a href="../data/metadata/occasions.tsv">Occasion map</a><a href="../data/README.md">Data README</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">Machine-readable</span><span class="badge withheld">Claim gate</span></div>
+            <h3>Layer A suppression receipts</h3>
+            <p>Records the failed convergence threshold and checksums for the five withheld-status replacement figures.</p>
+            <div class="link-row"><a href="../data/metadata/layerA_recovery_status.tsv">Recovery status</a><a href="../data/metadata/layerA_figure_gate.tsv">Figure gate</a></div>
+          </article>
+        </div>
+      </details>
+
+      <details class="catalog-section">
+        <summary><span>Reproducibility, code, and local tools</span><small>Entry command, generators, verifier, analysis scripts, and explorer</small></summary>
+        <div class="deliverable-grid">
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">Markdown</span><span class="badge final">One clear entry path</span></div>
+            <h3>Five-minute reproducibility capsule</h3>
+            <p>Environment setup, one build command, expected outputs, offline verification, and the boundary between the lightweight release and the full raw-read workflow.</p>
+            <div class="link-row"><a href="../START_HERE.md">Open START_HERE</a><a href="../requirements-website.txt">Python requirements</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">Python</span><span class="badge">Base R</span></div>
+            <h3>Deterministic artifact generators</h3>
+            <p>The Phase-5 entry command rebuilds all five analyses, their checked claim synthesis and test suites; the website builder regenerates the complete visual asset set and both PDFs.</p>
+            <div class="link-row"><a href="../scripts/run_impact_sprint.py">Phase-5 runner</a><a href="../scripts/build_website.py">Website builder</a><a href="../scripts/build_biological_evidence.R">Evidence builder</a><a href="build-receipt.json">Build receipt</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">Python</span><span class="badge final">Offline gate</span></div>
+            <h3>Release verifier</h3>
+            <p>Checks required artifacts, links, PDF page counts, simulator defaults, evidence dimensions, claim gates, and report freshness.</p>
+            <div class="link-row"><a href="../scripts/verify_release.py">Inspect verifier</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">ZIP</span><span class="badge final">Portable offline handoff</span></div>
+            <h3>Sendable website bundle</h3>
+            <p>A deterministic packager gathers the complete static website and every local deliverable it links, adds checksums and a clear entry page, then verifies the archive after a clean extraction. Raw FASTQs and heavyweight model checkpoints remain outside this review bundle.</p>
+            <div class="link-row"><a href="../scripts/package_website.py">Inspect packager</a><a href="../START_HERE.md">Read send instructions</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">R</span><span class="badge">Analysis code</span></div>
+            <h3>Layer E, A, and B workflows</h3>
+            <p>Scripted community inference, common-label occupancy, exploratory community occupancy, recovery testing, and reference-resource concordance.</p>
+            <div class="link-row"><a href="../R/04_baseline_E.R">Layer E</a><a href="../R/05_occupancy_msocc.R">Phase 1 occupancy</a><a href="../R/06_occupancy_occumb.R">Layer A stress test</a><a href="../R/07_reclass_B.R">Layer B</a><a href="../R/08_validate_concordance.R">Concordance</a><a href="../R/10_sim_recovery.R">Recovery study</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">R/Shiny</span><span class="badge provisional">Exploratory local tool</span></div>
+            <h3>Occupancy explorer</h3>
+            <p>A schema-checked local Shiny interface. It is source code, not a deployed service, and preserves Layer A diagnostic warnings.</p>
+            <div class="link-row"><a href="../shiny/app.R">Inspect app source</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">Environment locks</span><span class="badge">Two-machine scope</span></div>
+            <h3>Environment specifications</h3>
+            <p>Mac analysis environment, exact conda lock, human-readable R package record, and lightweight website requirements.</p>
+            <div class="link-row"><a href="../environment.yml">Environment</a><a href="../environment.lock.yml">Conda lock</a><a href="../environment.R-packages.lock.tsv">R package record</a><a href="../requirements-website.txt">Website requirements</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">Receipts</span><span class="badge final">Backend checks</span></div>
+            <h3>Analysis-engine smoke tests</h3>
+            <p>Auditable setup receipts for the JAGS and CmdStan pathways used to verify the isolated analysis environment.</p>
+            <div class="link-row"><a href="../docs/smoke_test_receipts.md">Read smoke-test receipts</a></div>
+          </article>
+        </div>
+      </details>
+
+      <details class="catalog-section">
+        <summary><span>Project status, decisions, citation, and reuse</span><small>How to interpret, cite, or continue the work</small></summary>
+        <div class="deliverable-grid">
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">Markdown</span><span class="badge final">Current status</span></div>
+            <h3>README and completion ledger</h3>
+            <p>The repository overview and phase-by-phase ledger define what is locally complete and what optional work lies outside the release.</p>
+            <div class="link-row"><a href="../README.md">Read README</a><a href="../eDNAplan.md">Open execution plan</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">Decision record</span><span class="badge">Not formal preregistration</span></div>
+            <h3>Analysis-decision record</h3>
+            <p>Records covariates, thresholds, amendments, and timing limitations without claiming external or independently timestamped preregistration.</p>
+            <div class="link-row"><a href="../docs/prereg.md">Read decision record</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">CFF</span></div>
+            <h3>Citation metadata</h3>
+            <p>Citation metadata with the source-study DOI.</p>
+            <div class="link-row"><a href="../CITATION.cff">Open citation metadata</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">License notice</span></div>
+            <h3>Reuse status</h3>
+            <p>All rights reserved; third-party material keeps its own license.</p>
+            <div class="link-row"><a href="../LICENSE">Read license notice</a></div>
+          </article>
+          <article class="deliverable-item">
+            <div class="badge-row"><span class="badge">External source</span><span class="badge">DOI</span></div>
+            <h3>Original River Conwy study</h3>
+            <p>Perry et al. (2024), the source dataset and published scientific context reanalysed by this project.</p>
+            <div class="link-row"><a href="https://doi.org/10.1038/s41467-024-48640-3">Open source study</a></div>
+          </article>
+        </div>
+      </details>
+    </section>
+
+    <section aria-labelledby="boundary-title">
+      <p class="eyebrow">Release boundary</p>
+      <h2 id="boundary-title">Complete locally; deliberately honest about what is not complete</h2>
+      <p class="section-intro">The website and catalogue are presentation and navigation layers over the audited repository. They do not convert exploratory results into final evidence or turn the local manuscript scaffold into a publication.</p>
+    </section>
+  </main>
+
+  <footer>
+    <span>River Conwy fish-eDNA reanalysis · local project website</span>
+    <span><a href="index.html">Summary</a> · <a href="../README.md">README</a> · <a href="../CITATION.cff">Citation</a> · <a href="../LICENSE">Reuse status</a></span>
+  </footer>
+</body>
+</html>

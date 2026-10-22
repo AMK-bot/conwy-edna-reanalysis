@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>River Conwy eDNA - six-part research brief</title>
+  <link rel="stylesheet" href="assets/style.css">
+  <style>
+    .brief { max-width: 960px; margin: 0 auto; }
+    .brief-page { padding: 40px 0 52px; border-top: 1px solid var(--line); }
+    .brief-title { padding: 28px 0 24px; border-top: 10px solid var(--river-dark); }
+    .brief-title h1 { max-width: 820px; font-size: clamp(2.35rem, 6vw, 4.7rem); }
+    .brief-title .lede { margin-bottom: 0; }
+    .fact-strip { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1px; margin: 24px 0 30px; border: 1px solid var(--line); background: var(--line); }
+    .fact-strip div { padding: 15px 17px; background: #fff; }
+    .fact-strip strong { display: block; color: var(--river-dark); font-size: 1.45rem; line-height: 1; }
+    .fact-strip span { color: var(--muted); font-size: .78rem; }
+    .brief-section { margin-top: 34px; }
+    .section-label { margin: 0 0 7px; color: var(--river-dark); font-size: .76rem; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
+    .brief-section h2 { margin: 0 0 12px; font-size: clamp(1.5rem, 3.2vw, 2.25rem); }
+    .question { padding: 20px 22px; border-left: 5px solid var(--river); background: var(--soft); font-size: 1.05rem; font-weight: 700; }
+    .brief figure { margin: 20px 0 26px; }
+    .brief figure img { display: block; width: 100%; height: auto; }
+    .brief figure.timeline-figure img { max-height: 380px; object-fit: contain; }
+    .brief figure.claim-figure img { max-height: 430px; object-fit: contain; }
+    .brief figure.model-figure img { max-height: 440px; object-fit: contain; }
+    .claim-list { display: grid; gap: 1px; margin: 18px 0; border: 1px solid var(--line); background: var(--line); counter-reset: claims; }
+    .claim-list article { display: grid; grid-template-columns: 42px 1fr; gap: 10px; padding: 12px 15px; background: #fff; counter-increment: claims; }
+    .claim-list article::before { content: counter(claims); display: grid; width: 28px; height: 28px; place-items: center; color: #fff; background: var(--river-dark); border-radius: 50%; font-size: .78rem; font-weight: 800; }
+    .claim-list p { margin: 2px 0 0; font-size: .91rem; }
+    .stress-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; margin: 16px 0 24px; }
+    .stress-grid div { padding: 12px; border-top: 3px solid var(--rose); background: #fff; font-size: .79rem; }
+    .stress-grid div:nth-child(1) { border-color: var(--amber); }
+    .stress-grid div:nth-child(3) { border-color: var(--moss); }
+    .stress-grid strong { display: block; margin-bottom: 4px; color: var(--river-dark); }
+    .verdict { margin: 18px 0; padding: 24px 26px; color: #fff; background: var(--river-dark); }
+    .verdict strong { color: #fff; }
+    .addition { padding: 18px 20px; border-left: 5px solid var(--amber); background: var(--warn); }
+    .source-note { color: var(--muted); font-size: .78rem; }
+    @media (max-width: 760px) {
+      .fact-strip { grid-template-columns: repeat(2, 1fr); }
+      .stress-grid { grid-template-columns: 1fr; }
+    }
+    @media print {
+      @page { size: A4; margin: 11mm 13mm; }
+      header { display: none; }
+      .brief-page { min-height: 0; height: 275mm; padding: 0; border: 0; break-after: page; overflow: hidden; }
+      .brief-page:last-child { break-after: auto; }
+      .brief-title { padding: 4mm 0 2mm; border-top-width: 5pt; }
+      .brief-title h1 { font-size: 22pt; }
+      .brief-title .lede { font-size: 9pt; }
+      .fact-strip { margin: 5mm 0; }
+      .fact-strip div { padding: 6pt 8pt; }
+      .fact-strip strong { font-size: 12pt; }
+      .brief-section { margin-top: 5mm; }
+      .brief-section h2 { margin-bottom: 4pt; font-size: 12.5pt; }
+      .question, .addition, .verdict { padding: 8pt 10pt; }
+      p, li { font-size: 7.9pt; line-height: 1.32; }
+      .brief figure { margin: 4pt 0 6pt; }
+      .brief figure.timeline-figure img { max-height: 52mm; }
+      .brief figure.claim-figure img { max-height: 57mm; }
+      .brief figure.model-figure img { max-height: 54mm; }
+      .claim-list { margin: 5pt 0; }
+      .claim-list article { grid-template-columns: 24px 1fr; padding: 4pt 6pt; }
+      .claim-list article::before { width: 18px; height: 18px; font-size: 6.5pt; }
+      .claim-list p, .stress-grid div { font-size: 6.8pt; }
+      .stress-grid { grid-template-columns: repeat(5, 1fr); gap: 4pt; margin: 5pt 0; }
+      .stress-grid div { padding: 5pt; }
+      .source-note { font-size: 6.5pt; }
+    }
+  </style>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to the research brief</a>
+  <header>
+    <nav class="site-nav" aria-label="Project website">
+      <a class="brand" href="index.html">Investigation brief</a>
+      <div><a href="index.html">Home</a><a href="claim-survival.html">Claim audit</a><a href="index.html#models">Models</a><a href="research_brief.html">Full brief</a><a href="deliverables.html">Deliverables</a><a href="../output/pdf/RESEARCH_BRIEF.pdf">PDF</a></div>
+    </nav>
+  </header>
+
+  <main class="brief" id="main-content">
+    <article class="brief-page">
+      <div class="brief-title">
+        <p class="eyebrow">River Conwy fish eDNA · six-part claim audit</p>
+        <h1>From fish-eDNA data to a defensible claim</h1>
+        <p class="lede">We began with five plausible interpretations, tried to falsify each one, and retained only the conclusions their evidence could carry.</p>
+      </div>
+
+      <div class="fact-strip" aria-label="Dataset summary">
+        <div><strong>14</strong><span>river sites</span></div>
+        <div><strong>18</strong><span>usable timepoints</span></div>
+        <div><strong>647</strong><span>validated field libraries</span></div>
+        <div><strong>1,348</strong><span>sequence variants</span></div>
+      </div>
+
+      <section class="brief-section">
+        <p class="section-label">01 · Our question</p>
+        <h2>Which conclusions can the evidence actually support?</h2>
+        <p class="question">What remains defensible after correcting the unit of inference, testing imperfect-detection recovery, and auditing pipeline, taxonomic and trait uncertainty?</p>
+        <p>The source study supplied the samples and original data. This project added the reproducible reanalysis and claim-audit layer.</p>
+      </section>
+
+      <section class="brief-section">
+        <p class="section-label">02 · Methodology + documentation moments</p>
+        <h2>The decision trail was part of the method</h2>
+        <figure class="timeline-figure">
+          <img src="assets/research-timeline.png" alt="Five-step methodology timeline. Check the River Conwy source data; reprocess the DNA reads; record that the rare-label model could not support an occupancy estimate; write the five questions, exact settings, included runs and verdict rules before testing; then run the full analysis twice and check a clean offline copy for matching outputs.">
+          <figcaption>Each step states what was done and why: check the source data, reprocess the reads, record model limits, set the tests in advance, and confirm computational reproducibility.</figcaption>
+        </figure>
+      </section>
+
+      <section class="brief-section">
+        <p class="section-label">03 · Initial claims</p>
+        <h2>Five hypotheses from the first analytical phase</h2>
+        <div class="claim-list">
+          <article><p>Downstream detected-label broadening is robust.</p></article>
+          <article><p>A correction model recovers rare-label Conwy occupancy.</p></article>
+          <article><p>Lower source signal and processed fish counts predict pipeline non-recovery.</p></article>
+          <article><p>Longer markers resolve <em>Salmo</em> species better than MiFish.</p></article>
+          <article><p>Trait diversity broadens beyond richness and prevalence alone.</p></article>
+        </div>
+        <p class="source-note">These were claims formulated by this reanalysis, not claims attributed to the source-study authors.</p>
+      </section>
+    </article>
+
+    <article class="brief-page">
+      <section class="brief-section">
+        <p class="section-label">04 · Stressing the claims</p>
+        <h2>Each claim received one of three decisions</h2>
+        <p class="source-note"><strong>ACCEPTED</strong> = met the declared decision rule · <strong>REJECTED</strong> = an adequate test did not support the claim · <strong>NON-CONCLUSIVE</strong> = the current data or model could not decide it.</p>
+        <figure class="claim-figure">
+          <img src="assets/claim-survival.png" alt="Five claims classified as one accepted, one rejected and three non-conclusive after their credibility audits.">
+        </figure>
+        <div class="stress-grid" aria-label="Five claim outcomes">
+          <div><strong>River · NON-CONCLUSIVE</strong>64/72 valid missed the 90% rule; p=0.0714</div>
+          <div><strong>Detection · NON-CONCLUSIVE</strong>the real model did not converge; simulations cannot estimate Conwy occupancy</div>
+          <div><strong>Pipeline · ACCEPTED</strong>999/999 fits finite and 43/43 leave-outs negative; comparator-relative and noncausal</div>
+          <div><strong>Taxonomy · NON-CONCLUSIVE</strong>only 2 of 7 species labels eligible; minimum 4</div>
+          <div><strong>Traits · REJECTED</strong>both null tests were non-significant: p=0.3159/0.1142</div>
+        </div>
+      </section>
+
+      <section class="brief-section">
+        <p class="section-label">05 · Models and simulations</p>
+        <h2>Five claims required five analytical engines</h2>
+        <figure class="model-figure">
+          <img src="assets/models-overview.png" alt="Five-lane diagram of the community multiverse, occupancy recovery atlas, pipeline bootstrap model, multi-marker taxonomy benchmark and trait null model.">
+          <figcaption>Restricted PERMANOVA and multiverse; 648-scenario known-truth atlas; clustered logistic bootstrap; multi-marker classification; fixed-margin Rao-Q null.</figcaption>
+        </figure>
+      </section>
+
+      <section class="brief-section">
+        <p class="section-label">06 · Final verdict</p>
+        <h2>The evidence narrowed—not erased—the result</h2>
+        <div class="verdict"><strong>ACCEPTED:</strong> the bounded comparator-relative pipeline association. <strong>NON-CONCLUSIVE:</strong> robust downstream broadening, rare-label Conwy occupancy correction and longer-marker <em>Salmo</em> species resolution. <strong>REJECTED:</strong> trait broadening beyond richness and prevalence.</div>
+        <p class="addition"><strong>Scientific addition:</strong> a reproducible credibility-audit framework whose questions, tests, and verdict rules were written in a dated project plan before analysis, giving each initial claim one transparent decision and its reason.</p>
+        <p class="source-note"><strong>Final tally: 1 ACCEPTED · 1 REJECTED · 3 NON-CONCLUSIVE.</strong> <a href="claim-survival.html">Inspect every claim</a> · <a href="research_brief.html">Read the full evidence brief</a> · <a href="../output/pdf/RESEARCH_BRIEF.pdf">Open the four-page visual PDF</a></p>
+      </section>
+    </article>
+  </main>
+</body>
+</html>

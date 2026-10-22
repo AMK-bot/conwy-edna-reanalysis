@@ -1,0 +1,2 @@
+data_scope	tests_passed	unit_invariant_regression_tests	full_dimension_denominator_provenance_tests	deterministic_rebuild	test_runtime_seconds
+synthetic_known_truth_only	59	PASS	PASS	PASS	4.433

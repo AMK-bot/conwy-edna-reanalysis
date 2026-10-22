@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "data_scope": "synthetic_known_truth_only",
+  "evidence_scope": "synthetic known-truth design conclusions only",
+  "claim_boundary": "Cannot estimate Conwy occupancy, repair its observation mask, or revive the withheld unconverged Layer-A correction.",
+  "frozen_sources": [
+    {
+      "path": "docs/impact-sprint-preregistration.md",
+      "sha256": "5d4ab9ce7d1f0dc695646f6e3c781b4931fad5fecc1513ddd79046c3b316e567"
+    },
+    {
+      "path": "data/metadata/impact_sprint_manifest.json",
+      "sha256": "0f6e6464ec54492cb23b8adbdc81b3b05a9ec98e73e1b04b413c764c03194843"
+    }
+  ],
+  "scientific_inputs_read": [
+    "data/metadata/impact_sprint_manifest.json",
+    "docs/impact-sprint-preregistration.md"
+  ],
+  "generated_artifacts_read": [
+    "data/derived/impact_occupancy_manifest.json",
+    "data/derived/impact_occupancy_receipt.json"
+  ],
+  "layerA_real_inputs_read": [],
+  "design": {
+    "scenarios": 648,
+    "simulations_per_scenario": 100,
+    "estimators": [
+      "naive_occurrence",
+      "replication_aware",
+      "depth_aware"
+    ],
+    "expected_fit_rows": 194400,
+    "paired_truth_scenarios": 216,
+    "fixed_seed_base": 2026071901,
+    "seed_formula": "base + 1000 * truth_scenario_id + simulation_id",
+    "rng": "R Mersenne-Twister / Inversion / Rejection; RNGversion 4.0.0"
+  },
+  "likelihood": {
+    "parameter_bounds": [-12, 12],
+    "deterministic_starts": 3,
+    "hessian": "analytic observed information (Louis identity)",
+    "interval": "95% logit-scale delta/Wald interval for marginal occupancy",
+    "one_replicate_corrections": "structural_nonidentifiable"
+  },
+  "output_rows": {
+    "scenarios": 648,
+    "simulation_audit": 64800,
+    "fit_results": 194400,
+    "atlas": 1944,
+    "generator_fixture": 1080
+  },
+  "gate_class_counts": [
+    613,
+    732,
+    599
+  ],
+  "gate_class_count_names": [
+    "recoverable",
+    "unreliable",
+    "non-identifiable"
+  ],
+  "canonical_output_sha256": {
+    "scenarios": "fa457b5b6da399a4d0345869d7ed2e439c21f516f4d8607529dd308d847338b1",
+    "simulation_audit": "95a8f40fd133c5f7ce8d64b9a8e5c9618dca8f65d578d9ab1ba12fcf7b19f545",
+    "fit_results": "21cd125d1e60d443021fbd3e235dc12debdf4f091739972c78b6297475c63977",
+    "atlas": "841702086b38dba7af0a4208cc1f82990694405579b331a0d0cdc8ac51ccd610",
+    "generator_fixture": "2a88783eef93dcbfa0afda07a9d03ecb7e0f4a6ca2598751f89f7a86d28f4dde",
+    "figure_png": "101177dd7cc34435152afe52e39e16583c790ce073defdbf32750755128c834d",
+    "figure_svg": "1b6eb041372bfd0122a16e79d4b5b68ea194f12b5c9f22d59d60a85762598d88"
+  }
+}

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this reanalysis, please cite it and the source study below."
+title: "River Conwy fish-eDNA reanalysis: imperfect detection and reference-database currency"
+type: software
+authors:
+  - alias: "AMK-bot"
+version: 0.1.0-local
+keywords:
+  - environmental DNA
+  - metabarcoding
+  - occupancy modelling
+  - reference databases
+  - River Conwy
+notes: >-
+  Source study: Perry, W. B. et al. (2024), "An integrated spatio-temporal view
+  of riverine biodiversity using environmental DNA metabarcoding", Nature
+  Communications 15, 4372, https://doi.org/10.1038/s41467-024-48640-3.

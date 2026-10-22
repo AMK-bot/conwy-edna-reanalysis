@@ -1,0 +1,63 @@
+{
+  "status": "PASS",
+  "runtime_seconds": 1.76,
+  "outputs": [
+    "website/assets/community-gradient.png",
+    "website/assets/salmo-resolution.png",
+    "website/assets/detection-simulation.png",
+    "website/assets/claim-survival.png",
+    "website/assets/research-timeline.png",
+    "website/assets/models-overview.png",
+    "website/assets/model-community-multiverse.png",
+    "website/assets/model-occupancy-atlas.png",
+    "website/assets/model-pipeline-bootstrap.png",
+    "website/assets/model-salmo-benchmark.png",
+    "website/assets/model-trait-null.png",
+    "output/pdf/RESEARCH_BRIEF.pdf",
+    "output/pdf/POSTER.pdf"
+  ],
+  "pdf_pages": {
+    "output/pdf/RESEARCH_BRIEF.pdf": 4,
+    "output/pdf/POSTER.pdf": 1
+  },
+  "synthetic_scenario": {
+    "parameters": {
+      "occupancy": 0.35,
+      "detection": 0.25,
+      "replicates": 3,
+      "relative_depth": 1.0,
+      "depth_gradient_coupling": 0.7,
+      "seed": 20260718,
+      "units": 800
+    },
+    "known_mean_occupancy": 0.3639728312618597,
+    "naive_detected_fraction": 0.24625,
+    "depth_only_corrected": 0.435,
+    "correction_error": 0.0710271687381403,
+    "all_replicates_miss_risk": 0.421875
+  },
+  "community_gradient_panel": {
+    "source": "data/derived/layerE_alpha_site_time.tsv",
+    "sites": 14,
+    "common_timepoints": [
+      "T01",
+      "T02",
+      "T04",
+      "T05",
+      "T06",
+      "T11",
+      "T12",
+      "T13",
+      "T14",
+      "T15",
+      "T18"
+    ],
+    "site_time_units": 154,
+    "libraries_per_unit_range": [
+      1,
+      3
+    ],
+    "interpretation": "descriptive detected-label richness; not true richness"
+  },
+  "failures": []
+}

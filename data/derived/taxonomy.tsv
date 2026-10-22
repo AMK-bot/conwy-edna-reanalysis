@@ -1,0 +1,1444 @@
+asv_id	Class	Order	Family	Genus	Species	pident	evalue	ref_accession	species
+ASV0001	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	100	8.87e-86	PQ275758	Salmo_macrostigma
+ASV0002	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	100	1.52e-88	MT975368	Phoxinus_phoxinus
+ASV0003	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	100	8.87e-86	PQ285811	Salmo_salar
+ASV0004	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	99.415	1.16e-84	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0005	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0006	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	100	8.87e-86	OP931685	Salmo_trutta
+ASV0007					Unassigned				Unassigned
+ASV0008					Unassigned				Unassigned
+ASV0009	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	100	2.48e-86	OP931043	Anguilla_anguilla
+ASV0010	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	100	3.17e-85	OR380487	Gasterosteus_aculeatus
+ASV0011	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	100	3.17e-85	OR380468	Scomber_scombrus
+ASV0012					Unassigned				Unassigned
+ASV0013					Unassigned				Unassigned
+ASV0014	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0015	Actinopteri	Perciformes	Cottidae	Cottus	Cottus gobio	100	3.17e-85	MH918138	Cottus_gobio
+ASV0016					Unassigned	100	3.17e-85	AB972099_1	Unassigned
+ASV0017	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0018	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0019	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0020	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0021	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0022	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0023	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0024	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus sp. Morella	100	1.52e-88	OP931555	Phoxinus_sp._Morella
+ASV0025	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0026					Unassigned				Unassigned
+ASV0027	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	100	1.52e-88	MT975372	Phoxinus_phoxinus
+ASV0028	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0029	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0030	Actinopteri	Perciformes	Gasterosteidae	Pungitius	Pungitius pungitius	100	3.17e-85	MH918117	Pungitius_pungitius
+ASV0031	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0032	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0033	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0034	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0035	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0036					Unassigned				Unassigned
+ASV0037	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	100	1.52e-88	MT975389	Phoxinus_phoxinus
+ASV0038	Actinopteri	Gadiformes	Gadidae	Merlangius	Merlangius merlangus	100	8.87e-86	PP467853	Merlangius_merlangus
+ASV0039	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0040	Actinopteri	Salmoniformes	Salmonidae	Oncorhynchus	Oncorhynchus mykiss	100	8.87e-86	OP588115	Oncorhynchus_mykiss
+ASV0041	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0042					Unassigned				Unassigned
+ASV0043	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0044					Unassigned				Unassigned
+ASV0045					Unassigned				Unassigned
+ASV0046	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0047	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0048					Unassigned				Unassigned
+ASV0049					Unassigned				Unassigned
+ASV0050	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0051	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0052	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0053	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0054					Unassigned				Unassigned
+ASV0055	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0056	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0057	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0058	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0059	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0060	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0061	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0062	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0063					Unassigned				Unassigned
+ASV0064	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0065	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	100	6.95e-87	MH194498	Clupea_harengus
+ASV0066	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0067	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0068	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0069	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0070					Unassigned				Unassigned
+ASV0071	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0072	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0073	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0074	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0075	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0076	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0077	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0078					Unassigned				Unassigned
+ASV0079	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0080	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0081	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0082	Actinopteri	Perciformes	Gasterosteidae	Pungitius	Pungitius kaibarae	100	1.14e-84	PQ149010	Pungitius_kaibarae
+ASV0083	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0084	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0085	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0086	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0087	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0088	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0089	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0090					Unassigned				Unassigned
+ASV0091					Unassigned				Unassigned
+ASV0092	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0093	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	1.47e-83	PQ285811	Salmo_salar
+ASV0094	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0095	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0096	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0097	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0098	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0099	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0100	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0101					Unassigned				Unassigned
+ASV0102	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0103					Unassigned				Unassigned
+ASV0104					Unassigned				Unassigned
+ASV0105	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0106	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0107					Unassigned				Unassigned
+ASV0108	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0109	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0110	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0111	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0112	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0113	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0114	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0115					Unassigned				Unassigned
+ASV0116	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0117	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0118	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0119	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0120					Unassigned				Unassigned
+ASV0121	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0122	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0123	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0124					Unassigned				Unassigned
+ASV0125	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0126	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0127	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0128	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0129	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0130	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0131	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0132	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0133	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0134					Unassigned				Unassigned
+ASV0135	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0136	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0137	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0138	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0139	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0140	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0141	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0142	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0143					Unassigned				Unassigned
+ASV0144	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0145	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0146	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0147	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0148	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0149	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0150	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0151	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0152	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0153	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931711	Salmo_trutta
+ASV0154	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0155	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0156	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0157					Unassigned				Unassigned
+ASV0158	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0159	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0160	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0161	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0162					Unassigned				Unassigned
+ASV0163					Unassigned				Unassigned
+ASV0164					Unassigned				Unassigned
+ASV0165					Unassigned				Unassigned
+ASV0166	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0167					Unassigned				Unassigned
+ASV0168	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0169	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0170	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0171	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	99.408	1.47e-83	OR380468	Scomber_scombrus
+ASV0172	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0173	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0174	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0175	Actinopteri	Gadiformes	Gadidae	Gadus	Gadus morhua	100	3.17e-85	PP467776	Gadus_morhua
+ASV0176					Unassigned				Unassigned
+ASV0177	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0178	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0179					Unassigned				Unassigned
+ASV0180	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0181	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0182	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0183					Unassigned				Unassigned
+ASV0184	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0185	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0186	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0187	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0188	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0189	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0190	Actinopteri	Perciformes	Percidae	Perca	Perca fluviatilis	100	8.87e-86	MH918132	Perca_fluviatilis
+ASV0191	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0192	Actinopteri	Salmoniformes	Salmonidae	Oncorhynchus	Oncorhynchus mykiss	100	8.87e-86	OP931449	Oncorhynchus_mykiss
+ASV0193					Unassigned				Unassigned
+ASV0194	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	99.408	1.47e-83	OR380468	Scomber_scombrus
+ASV0195	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0196	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0197	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	99.408	1.47e-83	OR380487	Gasterosteus_aculeatus
+ASV0198	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0199	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0200	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0201	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0202					Unassigned				Unassigned
+ASV0203	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0204					Unassigned				Unassigned
+ASV0205	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0206					Unassigned				Unassigned
+ASV0207	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0208	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0209	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0210	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0211	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0212	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0213	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0214	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0215	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0216	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0217	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	99.408	1.47e-83	OR380487	Gasterosteus_aculeatus
+ASV0218					Unassigned				Unassigned
+ASV0219	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0220	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0221	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0222	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0223					Unassigned	99.401	1.88e-82	KP641358_1	Unassigned
+ASV0224	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0225					Unassigned				Unassigned
+ASV0226	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0227	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0228	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0229	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0230	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0231	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0232	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0233	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0234	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0235	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0236	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0237					Unassigned				Unassigned
+ASV0238	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0239					Unassigned				Unassigned
+ASV0240	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0241	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0242	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0243					Unassigned				Unassigned
+ASV0244	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0245	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0246	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0247	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0248	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0249	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0250					Unassigned				Unassigned
+ASV0251					Unassigned				Unassigned
+ASV0252					Unassigned				Unassigned
+ASV0253	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0254	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0255	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0256	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0257	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0258	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0259					Unassigned				Unassigned
+ASV0260	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0261					Unassigned				Unassigned
+ASV0262	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0263	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0264	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0265	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0266	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0267	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0268	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0269	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	6.86e-82	PQ275758	Salmo_macrostigma
+ASV0270	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	6.86e-82	PQ285811	Salmo_salar
+ASV0271					Unassigned				Unassigned
+ASV0272	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0273	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0274					Unassigned				Unassigned
+ASV0275	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0276					Unassigned				Unassigned
+ASV0277					Unassigned				Unassigned
+ASV0278	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0279	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0280					Unassigned				Unassigned
+ASV0281	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0282	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	99.408	1.47e-83	OR380487	Gasterosteus_aculeatus
+ASV0283	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0284	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0285	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0286					Unassigned				Unassigned
+ASV0287	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0288	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0289	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	99.408	1.47e-83	OR380487	Gasterosteus_aculeatus
+ASV0290	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0291	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0292					Unassigned				Unassigned
+ASV0293					Unassigned				Unassigned
+ASV0294	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0295	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0296	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0297	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0298	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0299	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0300	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	99.408	1.47e-83	OR380487	Gasterosteus_aculeatus
+ASV0301					Unassigned	99.408	1.47e-83	AB972099_1	Unassigned
+ASV0302	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0303	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0304	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0305	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0306	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0307					Unassigned				Unassigned
+ASV0308	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	99.408	1.47e-83	OR380468	Scomber_scombrus
+ASV0309	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0310	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0311	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0312	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0313					Unassigned				Unassigned
+ASV0314	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0315	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0316	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0317					Unassigned				Unassigned
+ASV0318	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0319					Unassigned				Unassigned
+ASV0320	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0321	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.235	8.94e-81	PQ275758	Salmo_macrostigma
+ASV0322	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0323	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0324					Unassigned	99.408	1.47e-83	AB972099_1	Unassigned
+ASV0325	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0326	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0327	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0328	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0329	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0330	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0331	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0332	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0333	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0334	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0335					Unassigned				Unassigned
+ASV0336	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0337	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0338	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0339	Actinopteri	Salmoniformes	Salmonidae	Salvelinus	Salvelinus umbla	99.412	4.13e-84	PP928773	Salvelinus_umbla
+ASV0340					Unassigned				Unassigned
+ASV0341					Unassigned				Unassigned
+ASV0342	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0343	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0344	Actinopteri	Perciformes	Cottidae	Myoxocephalus	Myoxocephalus thompsonii	100	3.17e-85	PV446214	Myoxocephalus_thompsonii
+ASV0345	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	99.408	1.47e-83	OR380468	Scomber_scombrus
+ASV0346	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0347	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0348	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0349					Unassigned				Unassigned
+ASV0350	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0351	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0352	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0353	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0354	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0355	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0356	Actinopteri	Clupeiformes	Clupeidae	Sprattus	Sprattus sprattus	100	6.95e-87	PP467752	Sprattus_sprattus
+ASV0357					Unassigned				Unassigned
+ASV0358	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0359	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	99.408	1.47e-83	OR380468	Scomber_scombrus
+ASV0360	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0361					Unassigned				Unassigned
+ASV0362					Unassigned				Unassigned
+ASV0363	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0364					Unassigned				Unassigned
+ASV0365					Unassigned				Unassigned
+ASV0366	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0367	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	99.408	1.47e-83	OR380487	Gasterosteus_aculeatus
+ASV0368	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0369	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0370	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0371	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975389	Phoxinus_phoxinus
+ASV0372					Unassigned				Unassigned
+ASV0373	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0374	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0375	Actinopteri	Salmoniformes	Salmonidae	Oncorhynchus	Oncorhynchus mykiss	100	8.87e-86	PQ284206	Oncorhynchus_mykiss
+ASV0376	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0377	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0378	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0379					Unassigned				Unassigned
+ASV0380	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0381	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0382	Actinopteri	Gobiiformes	Gobiidae	Microgobius	Microgobius gulosus	99.401	1.88e-82	OR237859	Microgobius_gulosus
+ASV0383					Unassigned				Unassigned
+ASV0384	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0385	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0386	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0387	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0388					Unassigned				Unassigned
+ASV0389	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0390	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0391					Unassigned				Unassigned
+ASV0392					Unassigned				Unassigned
+ASV0393	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0394	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	99.408	1.47e-83	OR380487	Gasterosteus_aculeatus
+ASV0395					Unassigned				Unassigned
+ASV0396	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0397	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0398	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0399	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0400	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0401	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0402					Unassigned				Unassigned
+ASV0403	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0404	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0405					Unassigned				Unassigned
+ASV0406	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0407	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0408					Unassigned				Unassigned
+ASV0409					Unassigned				Unassigned
+ASV0410	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0411					Unassigned				Unassigned
+ASV0412	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0413	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0414	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0415	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0416					Unassigned				Unassigned
+ASV0417	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0418	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0419	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0420	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0421	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0422	Actinopteri	Salmoniformes	Salmonidae	Oncorhynchus	Oncorhynchus mykiss	100	2.48e-86	OQ644243	Oncorhynchus_mykiss
+ASV0423					Unassigned				Unassigned
+ASV0424	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0425	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0426	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0427	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0428					Unassigned				Unassigned
+ASV0429	Actinopteri	Perciformes	Pholidae	Pholis	Pholis gunnellus	100	1.13e-84	NC_052755	Pholis_gunnellus
+ASV0430	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0431	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0432	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0433					Unassigned				Unassigned
+ASV0434	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0435	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0436	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0437	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0438	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula barbatula	99.415	1.16e-84	NC_027192	Barbatula_barbatula
+ASV0439	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0440					Unassigned				Unassigned
+ASV0441	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0442	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	99.408	1.47e-83	OR380487	Gasterosteus_aculeatus
+ASV0443	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0444	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0445	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0446	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0447	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla rostrata	100	3.17e-85	PP620799	Anguilla_rostrata
+ASV0448	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0449	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0450	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0451					Unassigned				Unassigned
+ASV0452					Unassigned				Unassigned
+ASV0453					Unassigned				Unassigned
+ASV0454	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0455	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0456	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	99.408	1.47e-83	OR380468	Scomber_scombrus
+ASV0457	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0458	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0459	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0460	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0461					Unassigned				Unassigned
+ASV0462	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0463	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0464					Unassigned				Unassigned
+ASV0465	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	99.419	3.24e-85	MH194498	Clupea_harengus
+ASV0466	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0467	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0468	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.235	8.94e-81	PQ275758	Salmo_macrostigma
+ASV0469	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	99.408	1.47e-83	OR380468	Scomber_scombrus
+ASV0470	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	99.408	1.47e-83	OR380468	Scomber_scombrus
+ASV0471	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0472	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0473	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0474	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0475	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0476	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0477	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0478	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0479					Unassigned				Unassigned
+ASV0480					Unassigned				Unassigned
+ASV0481	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0482	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0483					Unassigned				Unassigned
+ASV0484	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0485	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0486					Unassigned	99.408	1.47e-83	AB972099_1	Unassigned
+ASV0487					Unassigned				Unassigned
+ASV0488					Unassigned				Unassigned
+ASV0489	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0490	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0491					Unassigned				Unassigned
+ASV0492					Unassigned				Unassigned
+ASV0493	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0494	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.246	2.5e-81	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0495					Unassigned				Unassigned
+ASV0496	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0497	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	99.408	1.47e-83	OR380468	Scomber_scombrus
+ASV0498	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	6.86e-82	PQ285811	Salmo_salar
+ASV0499	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0500	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0501	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0502	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0503	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975372	Phoxinus_phoxinus
+ASV0504					Unassigned				Unassigned
+ASV0505	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus eperlanus	100	1.13e-84	NC_052758	Osmerus_eperlanus
+ASV0506	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0507	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0508	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0509	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0510	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0511	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0512	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0513	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0514	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0515					Unassigned				Unassigned
+ASV0516					Unassigned				Unassigned
+ASV0517	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0518					Unassigned				Unassigned
+ASV0519	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0520	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	98.824	1.92e-82	OP931685	Salmo_trutta
+ASV0521	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0522	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0523	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0524	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	99.408	1.47e-83	OR380468	Scomber_scombrus
+ASV0525					Unassigned	99.408	1.47e-83	AB972099_1	Unassigned
+ASV0526	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	99.412	4.16e-84	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0527					Unassigned	99.408	1.47e-83	AB972099_1	Unassigned
+ASV0528	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0529					Unassigned				Unassigned
+ASV0530	Actinopteri	Perciformes	Cottidae	Taurulus	Taurulus bubalis	100	1.13e-84	MW818294	Taurulus_bubalis
+ASV0531	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0532	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0533					Unassigned				Unassigned
+ASV0534	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0535	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0536	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0537	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0538					Unassigned				Unassigned
+ASV0539	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	99.408	1.47e-83	OR380468	Scomber_scombrus
+ASV0540	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0541	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0542	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0543	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	98.817	6.86e-82	OR380468	Scomber_scombrus
+ASV0544					Unassigned				Unassigned
+ASV0545	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0546	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0547					Unassigned				Unassigned
+ASV0548	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0549	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0550	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0551	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0552	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0553	Actinopteri	Gadiformes	Lotidae	Ciliata	Ciliata mustela	100	8.87e-86	PP467858	Ciliata_mustela
+ASV0554	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0555					Unassigned				Unassigned
+ASV0556					Unassigned				Unassigned
+ASV0557	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0558	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0559	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	100	1.15e-84	PQ275758	Salmo_macrostigma
+ASV0560	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0561	Actinopteri	Perciformes	Gasterosteidae	Pungitius	Pungitius pungitius	99.408	1.47e-83	MH918117	Pungitius_pungitius
+ASV0562					Unassigned				Unassigned
+ASV0563	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0564	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0565	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0566	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0567	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0568					Unassigned				Unassigned
+ASV0569	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0570	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0571	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0572	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0573	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0574	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0575	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0576	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0577	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0578	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	6.86e-82	PQ275758	Salmo_macrostigma
+ASV0579	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0580	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0581					Unassigned				Unassigned
+ASV0582	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0583	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	99.408	1.47e-83	OR380468	Scomber_scombrus
+ASV0584	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0585	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	6.86e-82	PQ275758	Salmo_macrostigma
+ASV0586					Unassigned				Unassigned
+ASV0587	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0588					Unassigned				Unassigned
+ASV0589	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0590	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0591					Unassigned				Unassigned
+ASV0592	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0593	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0594	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0595	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	1.92e-82	PQ285811	Salmo_salar
+ASV0596	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0597					Unassigned				Unassigned
+ASV0598	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0599					Unassigned				Unassigned
+ASV0600	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0601	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	99.408	1.47e-83	OR380468	Scomber_scombrus
+ASV0602					Unassigned				Unassigned
+ASV0603					Unassigned				Unassigned
+ASV0604	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0605					Unassigned				Unassigned
+ASV0606					Unassigned				Unassigned
+ASV0607	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0608	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0609	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	99.408	1.47e-83	OR380487	Gasterosteus_aculeatus
+ASV0610	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0611	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0612	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0613	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975372	Phoxinus_phoxinus
+ASV0614	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0615	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0616					Unassigned				Unassigned
+ASV0617	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0618	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0619					Unassigned				Unassigned
+ASV0620	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0621	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0622	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0623	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0624					Unassigned				Unassigned
+ASV0625					Unassigned	99.408	1.47e-83	AB972099_1	Unassigned
+ASV0626	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0627	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0628					Unassigned				Unassigned
+ASV0629	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0630					Unassigned				Unassigned
+ASV0631	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0632	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0633	Actinopteri	Salmoniformes	Salmonidae	Salvelinus	Salvelinus umbla	100	8.87e-86	PP928773	Salvelinus_umbla
+ASV0634	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0635					Unassigned				Unassigned
+ASV0636	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	98.817	6.86e-82	OR380487	Gasterosteus_aculeatus
+ASV0637	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0638	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0639	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0640	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	98.817	6.86e-82	OR380487	Gasterosteus_aculeatus
+ASV0641	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	98.817	6.86e-82	OR380468	Scomber_scombrus
+ASV0642	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0643	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0644	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0645					Unassigned				Unassigned
+ASV0646					Unassigned				Unassigned
+ASV0647	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0648	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0649	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0650	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0651	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0652					Unassigned				Unassigned
+ASV0653					Unassigned				Unassigned
+ASV0654	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0655	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0656	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0657	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0658	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0659	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0660					Unassigned				Unassigned
+ASV0661					Unassigned	99.408	1.47e-83	AB972099_1	Unassigned
+ASV0662	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0663					Unassigned				Unassigned
+ASV0664					Unassigned				Unassigned
+ASV0665	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	99.408	1.47e-83	OR380487	Gasterosteus_aculeatus
+ASV0666	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0667					Unassigned				Unassigned
+ASV0668	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0669					Unassigned				Unassigned
+ASV0670	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0671	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0672	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0673	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0674	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0675	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0676	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.235	8.94e-81	PQ275758	Salmo_macrostigma
+ASV0677	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0678	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	6.86e-82	PQ285811	Salmo_salar
+ASV0679	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0680	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0681	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0682	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0683	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0684	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0685	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0686	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0687	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0688					Unassigned				Unassigned
+ASV0689					Unassigned				Unassigned
+ASV0690	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0691					Unassigned				Unassigned
+ASV0692	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0693	Actinopteri	Uranoscopiformes	Ammodytidae	Hyperoplus	Hyperoplus lanceolatus	99.408	1.47e-83	PP467860	Hyperoplus_lanceolatus
+ASV0694	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0695	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0696					Unassigned	99.408	1.47e-83	AB972099_1	Unassigned
+ASV0697	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0698					Unassigned				Unassigned
+ASV0699	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	6.86e-82	PQ285811	Salmo_salar
+ASV0700	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975372	Phoxinus_phoxinus
+ASV0701					Unassigned				Unassigned
+ASV0702	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0703					Unassigned				Unassigned
+ASV0704	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0705					Unassigned				Unassigned
+ASV0706	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0707	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.246	2.5e-81	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0708	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.235	8.94e-81	PQ275758	Salmo_macrostigma
+ASV0709	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0710	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0711	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	99.408	1.47e-83	OR380487	Gasterosteus_aculeatus
+ASV0712	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0713	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0714	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0715					Unassigned				Unassigned
+ASV0716					Unassigned				Unassigned
+ASV0717					Unassigned				Unassigned
+ASV0718	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0719	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0720	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	6.86e-82	PQ285811	Salmo_salar
+ASV0721					Unassigned				Unassigned
+ASV0722	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	6.86e-82	PQ285811	Salmo_salar
+ASV0723	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	1.92e-82	PQ285811	Salmo_salar
+ASV0724	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0725	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275754	Salmo_macrostigma
+ASV0726	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0727	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0728					Unassigned				Unassigned
+ASV0729					Unassigned				Unassigned
+ASV0730					Unassigned				Unassigned
+ASV0731					Unassigned				Unassigned
+ASV0732	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	100	2.48e-86	KJ564254	Anguilla_anguilla
+ASV0733	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0734					Unassigned				Unassigned
+ASV0735	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0736					Unassigned				Unassigned
+ASV0737					Unassigned				Unassigned
+ASV0738	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0739					Unassigned				Unassigned
+ASV0740	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0741	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0742	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0743					Unassigned				Unassigned
+ASV0744					Unassigned				Unassigned
+ASV0745	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0746	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	99.408	1.47e-83	OR380487	Gasterosteus_aculeatus
+ASV0747	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0748					Unassigned				Unassigned
+ASV0749					Unassigned				Unassigned
+ASV0750	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.235	8.94e-81	PQ285811	Salmo_salar
+ASV0751	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0752	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0753	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0754					Unassigned				Unassigned
+ASV0755	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0756	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0757	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0758	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0759	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0760	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0761	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0762	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.235	8.94e-81	PQ275758	Salmo_macrostigma
+ASV0763	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.286	1.54e-83	MT975368	Phoxinus_phoxinus
+ASV0764	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0765	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0766	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0767					Unassigned				Unassigned
+ASV0768	Actinopteri	Uranoscopiformes	Ammodytidae	Hyperoplus	Hyperoplus lanceolatus	100	3.17e-85	PP467860	Hyperoplus_lanceolatus
+ASV0769	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0770	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0771	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.246	2.5e-81	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0772	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0773	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	6.86e-82	PQ285811	Salmo_salar
+ASV0774					Unassigned				Unassigned
+ASV0775	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0776	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	98.817	6.86e-82	OR380468	Scomber_scombrus
+ASV0777					Unassigned				Unassigned
+ASV0778	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975372	Phoxinus_phoxinus
+ASV0779	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0780					Unassigned				Unassigned
+ASV0781					Unassigned				Unassigned
+ASV0782	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0783	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	1.92e-82	PQ285811	Salmo_salar
+ASV0784	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.286	1.54e-83	MT975368	Phoxinus_phoxinus
+ASV0785					Unassigned				Unassigned
+ASV0786					Unassigned				Unassigned
+ASV0787					Unassigned	99.408	1.47e-83	AB972099_1	Unassigned
+ASV0788					Unassigned				Unassigned
+ASV0789	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0790	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	99.408	1.47e-83	OR380468	Scomber_scombrus
+ASV0791	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0792					Unassigned				Unassigned
+ASV0793	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	99.408	1.47e-83	OR380468	Scomber_scombrus
+ASV0794	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0795					Unassigned				Unassigned
+ASV0796					Unassigned				Unassigned
+ASV0797	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0798	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0799	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0800					Unassigned				Unassigned
+ASV0801	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0802	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	99.408	1.47e-83	OR380468	Scomber_scombrus
+ASV0803	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0804					Unassigned				Unassigned
+ASV0805	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0806	Actinopteri	Pleuronectiformes	Pleuronectidae	Hippoglossus	Hippoglossus stenolepis	100	3.17e-85	OQ846496	Hippoglossus_stenolepis
+ASV0807	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0808	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0809	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	99.408	1.47e-83	OR380487	Gasterosteus_aculeatus
+ASV0810	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0811	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0812	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	99.408	1.47e-83	OR380487	Gasterosteus_aculeatus
+ASV0813	Actinopteri	Perciformes	Cottidae	Cottus	Cottus gobio	99.408	1.47e-83	MH918138	Cottus_gobio
+ASV0814					Unassigned				Unassigned
+ASV0815	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0816	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0817	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0818					Unassigned				Unassigned
+ASV0819	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0820	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0821					Unassigned				Unassigned
+ASV0822	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0823					Unassigned	99.408	1.47e-83	AB972099_1	Unassigned
+ASV0824					Unassigned				Unassigned
+ASV0825					Unassigned				Unassigned
+ASV0826	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0827	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0828					Unassigned				Unassigned
+ASV0829					Unassigned				Unassigned
+ASV0830	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0831	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0832					Unassigned				Unassigned
+ASV0833	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	99.408	1.47e-83	OR380468	Scomber_scombrus
+ASV0834					Unassigned				Unassigned
+ASV0835	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0836					Unassigned				Unassigned
+ASV0837	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0838					Unassigned				Unassigned
+ASV0839	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0840	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0841					Unassigned				Unassigned
+ASV0842					Unassigned				Unassigned
+ASV0843	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0844	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0845					Unassigned				Unassigned
+ASV0846	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0847					Unassigned	99.408	1.47e-83	AB972099_1	Unassigned
+ASV0848					Unassigned				Unassigned
+ASV0849	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV0850	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0851					Unassigned				Unassigned
+ASV0852	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	98.83	5.38e-83	OP931043	Anguilla_anguilla
+ASV0853	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0854					Unassigned				Unassigned
+ASV0855	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	99.408	1.47e-83	OR380487	Gasterosteus_aculeatus
+ASV0856	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0857					Unassigned	99.408	1.47e-83	AB972099_1	Unassigned
+ASV0858					Unassigned				Unassigned
+ASV0859	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0860					Unassigned				Unassigned
+ASV0861					Unassigned				Unassigned
+ASV0862	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0863	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0864	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	1.92e-82	PQ285811	Salmo_salar
+ASV0865					Unassigned				Unassigned
+ASV0866	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0867	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0868	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0869					Unassigned				Unassigned
+ASV0870	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975389	Phoxinus_phoxinus
+ASV0871	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0872	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0873	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0874					Unassigned				Unassigned
+ASV0875					Unassigned				Unassigned
+ASV0876					Unassigned				Unassigned
+ASV0877	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0878	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0879	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0880	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0881	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975372	Phoxinus_phoxinus
+ASV0882	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0883					Unassigned				Unassigned
+ASV0884	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975372	Phoxinus_phoxinus
+ASV0885	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0886	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	98.235	8.94e-81	OP931685	Salmo_trutta
+ASV0887					Unassigned				Unassigned
+ASV0888	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0889	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0890	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0891	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0892					Unassigned				Unassigned
+ASV0893					Unassigned				Unassigned
+ASV0894					Unassigned				Unassigned
+ASV0895	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0896	Actinopteri	Siluriformes	Pimelodidae	Rhamdia	Rhamdia cf. jequitinhonha NS 3056B	99.415	1.16e-84	MT901461	Rhamdia_cf._jequitinhonha_NS_3056B
+ASV0897					Unassigned				Unassigned
+ASV0898	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0899	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0900					Unassigned	99.408	1.47e-83	AB972099_1	Unassigned
+ASV0901	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0902	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0903	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0904					Unassigned				Unassigned
+ASV0905	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0906					Unassigned				Unassigned
+ASV0907	Actinopteri	Perciformes	Cottidae	Cottus	Cottus gobio	99.408	1.47e-83	MH918138	Cottus_gobio
+ASV0908	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0909					Unassigned				Unassigned
+ASV0910	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0911	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	99.408	1.47e-83	OR380468	Scomber_scombrus
+ASV0912					Unassigned				Unassigned
+ASV0913					Unassigned				Unassigned
+ASV0914	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	1.92e-82	PQ285811	Salmo_salar
+ASV0915					Unassigned				Unassigned
+ASV0916	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus bigerri	99.429	7.09e-87	MT975388	Phoxinus_bigerri
+ASV0917	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0918	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	99.408	1.47e-83	OR380487	Gasterosteus_aculeatus
+ASV0919					Unassigned				Unassigned
+ASV0920					Unassigned				Unassigned
+ASV0921	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0922					Unassigned	99.408	1.47e-83	AB972099_1	Unassigned
+ASV0923					Unassigned				Unassigned
+ASV0924					Unassigned				Unassigned
+ASV0925	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0926	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.235	8.94e-81	PQ275758	Salmo_macrostigma
+ASV0927	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0928	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0929					Unassigned	99.408	1.47e-83	AB972099_1	Unassigned
+ASV0930	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.864	3.32e-85	MT975368	Phoxinus_phoxinus
+ASV0931	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975372	Phoxinus_phoxinus
+ASV0932	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0933					Unassigned				Unassigned
+ASV0934					Unassigned				Unassigned
+ASV0935	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.408	1.48e-83	PQ285811	Salmo_salar
+ASV0936	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0937	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0938					Unassigned				Unassigned
+ASV0939	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0940	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.286	1.54e-83	MT975368	Phoxinus_phoxinus
+ASV0941	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.286	1.54e-83	MT975368	Phoxinus_phoxinus
+ASV0942					Unassigned				Unassigned
+ASV0943	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0944	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0945					Unassigned				Unassigned
+ASV0946	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.824	1.93e-82	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0947	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0948	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	6.86e-82	PQ275758	Salmo_macrostigma
+ASV0949					Unassigned				Unassigned
+ASV0950					Unassigned				Unassigned
+ASV0951	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0952					Unassigned				Unassigned
+ASV0953	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0954	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0955					Unassigned				Unassigned
+ASV0956	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0957	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.235	8.94e-81	PQ275758	Salmo_macrostigma
+ASV0958	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0959	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV0960	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0961					Unassigned				Unassigned
+ASV0962					Unassigned				Unassigned
+ASV0963					Unassigned				Unassigned
+ASV0964					Unassigned				Unassigned
+ASV0965	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	98.824	1.92e-82	OP931685	Salmo_trutta
+ASV0966	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0967	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0968	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.405	5.38e-83	OP931043	Anguilla_anguilla
+ASV0969					Unassigned				Unassigned
+ASV0970					Unassigned				Unassigned
+ASV0971					Unassigned				Unassigned
+ASV0972					Unassigned				Unassigned
+ASV0973					Unassigned				Unassigned
+ASV0974					Unassigned				Unassigned
+ASV0975	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0976					Unassigned				Unassigned
+ASV0977	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0978					Unassigned				Unassigned
+ASV0979	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	98.824	1.92e-82	OP931685	Salmo_trutta
+ASV0980	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV0981	Actinopteri	Salmoniformes	Salmonidae	Oncorhynchus	Oncorhynchus mykiss	99.412	4.13e-84	OP588115	Oncorhynchus_mykiss
+ASV0982	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV0983					Unassigned				Unassigned
+ASV0984	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0985	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0986	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	99.408	1.47e-83	OR380468	Scomber_scombrus
+ASV0987	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV0988	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	99.408	1.47e-83	OR380487	Gasterosteus_aculeatus
+ASV0989	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV0990	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	97.647	4.16e-79	OP931685	Salmo_trutta
+ASV0991					Unassigned				Unassigned
+ASV0992	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0993					Unassigned				Unassigned
+ASV0994					Unassigned				Unassigned
+ASV0995	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975389	Phoxinus_phoxinus
+ASV0996	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV0997	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	96.667	1.23e-79	MT975368	Phoxinus_phoxinus
+ASV0998	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV0999					Unassigned				Unassigned
+ASV1000	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV1001					Unassigned				Unassigned
+ASV1002	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula barbatula	98.83	5.38e-83	NC_027192	Barbatula_barbatula
+ASV1003					Unassigned				Unassigned
+ASV1004	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1005					Unassigned				Unassigned
+ASV1006	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV1007	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	99.408	1.47e-83	OR380487	Gasterosteus_aculeatus
+ASV1008	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV1009					Unassigned				Unassigned
+ASV1010					Unassigned				Unassigned
+ASV1011	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV1012	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV1013	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV1014	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.235	8.94e-81	PQ275758	Salmo_macrostigma
+ASV1015					Unassigned				Unassigned
+ASV1016					Unassigned				Unassigned
+ASV1017					Unassigned				Unassigned
+ASV1018	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1019	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV1020					Unassigned				Unassigned
+ASV1021					Unassigned				Unassigned
+ASV1022	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV1023	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV1024					Unassigned				Unassigned
+ASV1025	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV1026					Unassigned				Unassigned
+ASV1027	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV1028	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV1029					Unassigned				Unassigned
+ASV1030	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	99.408	1.47e-83	OR380468	Scomber_scombrus
+ASV1031	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV1032	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.235	8.94e-81	PQ275758	Salmo_macrostigma
+ASV1033	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV1034	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV1035					Unassigned				Unassigned
+ASV1036					Unassigned				Unassigned
+ASV1037	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975368	Phoxinus_phoxinus
+ASV1038	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV1039	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV1040					Unassigned				Unassigned
+ASV1041	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1042					Unassigned				Unassigned
+ASV1043	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1044	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV1045	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1046					Unassigned				Unassigned
+ASV1047	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV1048					Unassigned				Unassigned
+ASV1049	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV1050	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	1.92e-82	PQ285811	Salmo_salar
+ASV1051	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1052	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV1053	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV1054	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	99.412	4.13e-84	PQ285811	Salmo_salar
+ASV1055	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	1.92e-82	PQ285811	Salmo_salar
+ASV1056	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV1057	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV1058	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975389	Phoxinus_phoxinus
+ASV1059					Unassigned				Unassigned
+ASV1060	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	1.92e-82	PQ285811	Salmo_salar
+ASV1061					Unassigned				Unassigned
+ASV1062	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	1.92e-82	PQ285811	Salmo_salar
+ASV1063					Unassigned				Unassigned
+ASV1064					Unassigned				Unassigned
+ASV1065	Actinopteri	Cypriniformes	Leuciscidae	Abramis	Abramis brama	100	4.27e-89	MH918130	Abramis_brama
+ASV1066					Unassigned				Unassigned
+ASV1067					Unassigned				Unassigned
+ASV1068					Unassigned				Unassigned
+ASV1069					Unassigned				Unassigned
+ASV1070	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.235	8.94e-81	PQ275758	Salmo_macrostigma
+ASV1071	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV1072	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV1073					Unassigned				Unassigned
+ASV1074	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1075	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	98.225	3.19e-80	OR380468	Scomber_scombrus
+ASV1076					Unassigned	99.408	1.47e-83	AB972099_1	Unassigned
+ASV1077					Unassigned				Unassigned
+ASV1078	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.235	3.19e-80	PQ285811	Salmo_salar
+ASV1079					Unassigned				Unassigned
+ASV1080	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	1.92e-82	PQ285811	Salmo_salar
+ASV1081					Unassigned				Unassigned
+ASV1082	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	98.83	5.38e-83	OP931043	Anguilla_anguilla
+ASV1083					Unassigned				Unassigned
+ASV1084	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV1085	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275758	Salmo_macrostigma
+ASV1086					Unassigned				Unassigned
+ASV1087					Unassigned				Unassigned
+ASV1088	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV1089					Unassigned				Unassigned
+ASV1090					Unassigned				Unassigned
+ASV1091	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	99.408	1.47e-83	OR380487	Gasterosteus_aculeatus
+ASV1092					Unassigned				Unassigned
+ASV1093	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	99.408	1.47e-83	OR380487	Gasterosteus_aculeatus
+ASV1094	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1095	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	100	1.14e-84	OR380468	Scomber_scombrus
+ASV1096					Unassigned				Unassigned
+ASV1097					Unassigned				Unassigned
+ASV1098	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV1099	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV1100	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1101	Actinopteri	Perciformes	Gasterosteidae	Pungitius	Pungitius pungitius	99.408	1.47e-83	MH918117	Pungitius_pungitius
+ASV1102					Unassigned				Unassigned
+ASV1103	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV1104	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV1105	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.851	4.24e-84	MT975368	Phoxinus_phoxinus
+ASV1106	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1107	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1108					Unassigned				Unassigned
+ASV1109					Unassigned				Unassigned
+ASV1110					Unassigned				Unassigned
+ASV1111	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1112	Actinopteri	Siluriformes	Pimelodidae	Rhamdia	Rhamdia cf. jequitinhonha NS 3056B	98.83	5.38e-83	MT901461	Rhamdia_cf._jequitinhonha_NS_3056B
+ASV1113					Unassigned				Unassigned
+ASV1114	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV1115	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	99.408	1.47e-83	OR380487	Gasterosteus_aculeatus
+ASV1116					Unassigned				Unassigned
+ASV1117	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.408	1.48e-83	PQ275758	Salmo_macrostigma
+ASV1118	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	98.817	6.86e-82	OR380487	Gasterosteus_aculeatus
+ASV1119	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1120					Unassigned				Unassigned
+ASV1121	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	1.92e-82	PQ285811	Salmo_salar
+ASV1122					Unassigned				Unassigned
+ASV1123					Unassigned				Unassigned
+ASV1124					Unassigned				Unassigned
+ASV1125					Unassigned				Unassigned
+ASV1126	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1127	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	1.92e-82	PQ285811	Salmo_salar
+ASV1128	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	99.408	1.47e-83	OR380487	Gasterosteus_aculeatus
+ASV1129	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1130	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla anguilla	99.415	1.16e-84	OP931043	Anguilla_anguilla
+ASV1131	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	99.412	4.13e-84	PQ275754	Salmo_macrostigma
+ASV1132					Unassigned				Unassigned
+ASV1133					Unassigned				Unassigned
+ASV1134					Unassigned				Unassigned
+ASV1135					Unassigned				Unassigned
+ASV1136	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV1137					Unassigned				Unassigned
+ASV1138	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	1.92e-82	PQ285811	Salmo_salar
+ASV1139	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.83	5.38e-83	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV1140					Unassigned				Unassigned
+ASV1141					Unassigned				Unassigned
+ASV1142					Unassigned				Unassigned
+ASV1143	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1144					Unassigned				Unassigned
+ASV1145	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	99.408	1.47e-83	OR380487	Gasterosteus_aculeatus
+ASV1146	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV1147	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1148	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV1149					Unassigned				Unassigned
+ASV1150					Unassigned				Unassigned
+ASV1151	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV1152	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.235	8.94e-81	PQ285811	Salmo_salar
+ASV1153					Unassigned				Unassigned
+ASV1154	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1155	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	98.824	1.92e-82	OP931685	Salmo_trutta
+ASV1156					Unassigned				Unassigned
+ASV1157	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1158					Unassigned				Unassigned
+ASV1159	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.851	1.19e-84	MT975368	Phoxinus_phoxinus
+ASV1160					Unassigned				Unassigned
+ASV1161					Unassigned				Unassigned
+ASV1162	Actinopteri	Salmoniformes	Salmonidae	Salvelinus	Salvelinus fontinalis	100	8.87e-86	KY798503	Salvelinus_fontinalis
+ASV1163	Actinopteri	Perciformes	Gasterosteidae	Pungitius	Pungitius pungitius	99.408	1.47e-83	MH918117	Pungitius_pungitius
+ASV1164					Unassigned				Unassigned
+ASV1165					Unassigned				Unassigned
+ASV1166					Unassigned				Unassigned
+ASV1167					Unassigned				Unassigned
+ASV1168	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	98.824	1.92e-82	OP931685	Salmo_trutta
+ASV1169					Unassigned				Unassigned
+ASV1170	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	1.92e-82	PQ285811	Salmo_salar
+ASV1171					Unassigned				Unassigned
+ASV1172	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.246	2.5e-81	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV1173	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	1.92e-82	PQ285811	Salmo_salar
+ASV1174	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV1175	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	99.412	4.13e-84	OP931685	Salmo_trutta
+ASV1176					Unassigned				Unassigned
+ASV1177					Unassigned				Unassigned
+ASV1178	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1179					Unassigned				Unassigned
+ASV1180					Unassigned				Unassigned
+ASV1181	Hyperoartia				Unassigned	100	7.32e-92	PP928754	Unassigned
+ASV1182	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	98.824	1.92e-82	OP931685	Salmo_trutta
+ASV1183					Unassigned				Unassigned
+ASV1184					Unassigned				Unassigned
+ASV1185					Unassigned				Unassigned
+ASV1186					Unassigned				Unassigned
+ASV1187	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.235	8.94e-81	PQ285811	Salmo_salar
+ASV1188	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1189					Unassigned				Unassigned
+ASV1190					Unassigned				Unassigned
+ASV1191					Unassigned				Unassigned
+ASV1192					Unassigned				Unassigned
+ASV1193	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	98.235	8.94e-81	OP931685	Salmo_trutta
+ASV1194	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1195	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1196					Unassigned				Unassigned
+ASV1197	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1198					Unassigned				Unassigned
+ASV1199	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV1200	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	1.92e-82	PQ285811	Salmo_salar
+ASV1201	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1202					Unassigned				Unassigned
+ASV1203					Unassigned				Unassigned
+ASV1204					Unassigned				Unassigned
+ASV1205					Unassigned				Unassigned
+ASV1206	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975389	Phoxinus_phoxinus
+ASV1207					Unassigned				Unassigned
+ASV1208					Unassigned				Unassigned
+ASV1209					Unassigned				Unassigned
+ASV1210					Unassigned				Unassigned
+ASV1211	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	99.429	7.09e-87	MT975389	Phoxinus_phoxinus
+ASV1212					Unassigned				Unassigned
+ASV1213	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	1.92e-82	PQ285811	Salmo_salar
+ASV1214					Unassigned				Unassigned
+ASV1215					Unassigned				Unassigned
+ASV1216	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.235	8.94e-81	PQ275758	Salmo_macrostigma
+ASV1217	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.246	2.5e-81	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV1218	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.246	2.5e-81	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV1219					Unassigned				Unassigned
+ASV1220					Unassigned				Unassigned
+ASV1221					Unassigned				Unassigned
+ASV1222					Unassigned				Unassigned
+ASV1223	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1224					Unassigned				Unassigned
+ASV1225					Unassigned				Unassigned
+ASV1226					Unassigned				Unassigned
+ASV1227	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV1228	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV1229					Unassigned				Unassigned
+ASV1230	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV1231	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	1.92e-82	PQ285811	Salmo_salar
+ASV1232	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1233					Unassigned				Unassigned
+ASV1234					Unassigned				Unassigned
+ASV1235					Unassigned				Unassigned
+ASV1236					Unassigned				Unassigned
+ASV1237					Unassigned				Unassigned
+ASV1238	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	1.92e-82	PQ285811	Salmo_salar
+ASV1239	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	1.92e-82	PQ285811	Salmo_salar
+ASV1240	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1241					Unassigned				Unassigned
+ASV1242					Unassigned				Unassigned
+ASV1243					Unassigned				Unassigned
+ASV1244					Unassigned				Unassigned
+ASV1245					Unassigned				Unassigned
+ASV1246	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1247					Unassigned				Unassigned
+ASV1248					Unassigned				Unassigned
+ASV1249	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1250					Unassigned				Unassigned
+ASV1251					Unassigned				Unassigned
+ASV1252	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.286	1.54e-83	MT975368	Phoxinus_phoxinus
+ASV1253	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1254					Unassigned				Unassigned
+ASV1255	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1256					Unassigned				Unassigned
+ASV1257					Unassigned				Unassigned
+ASV1258	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV1259	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	98.824	1.92e-82	PQ285811	Salmo_salar
+ASV1260					Unassigned				Unassigned
+ASV1261					Unassigned				Unassigned
+ASV1262					Unassigned				Unassigned
+ASV1263					Unassigned				Unassigned
+ASV1264					Unassigned				Unassigned
+ASV1265					Unassigned				Unassigned
+ASV1266					Unassigned				Unassigned
+ASV1267	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	98.235	8.94e-81	OP931685	Salmo_trutta
+ASV1268					Unassigned				Unassigned
+ASV1269	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.235	8.94e-81	PQ275758	Salmo_macrostigma
+ASV1270	Actinopteri	Cypriniformes	Nemacheilidae	Barbatula	Barbatula aff. barbatula lineage I	98.246	2.5e-81	OP931067	Barbatula_aff._barbatula_lineage_I
+ASV1271	Actinopteri	Cypriniformes	Leuciscidae	Phoxinus	Phoxinus phoxinus	98.857	3.3e-85	MT975368	Phoxinus_phoxinus
+ASV1272					Unassigned				Unassigned
+ASV1273					Unassigned				Unassigned
+ASV1274					Unassigned				Unassigned
+ASV1275					Unassigned				Unassigned
+ASV1276					Unassigned				Unassigned
+ASV1277					Unassigned				Unassigned
+ASV1278					Unassigned				Unassigned
+ASV1279					Unassigned				Unassigned
+ASV1280					Unassigned				Unassigned
+ASV1281	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	98.824	1.92e-82	PQ275758	Salmo_macrostigma
+ASV1282					Unassigned				Unassigned
+ASV1283					Unassigned				Unassigned
+ASV1284					Unassigned				Unassigned
+ASV1285					Unassigned				Unassigned
+ASV1286					Unassigned				Unassigned
+ASV1287					Unassigned				Unassigned
+ASV1288					Unassigned				Unassigned
+ASV1289					Unassigned				Unassigned
+ASV1290					Unassigned				Unassigned
+ASV1291					Unassigned				Unassigned
+ASV1292					Unassigned				Unassigned
+ASV1293					Unassigned				Unassigned
+ASV1294					Unassigned				Unassigned
+ASV1295	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius merluccius	100	3.17e-85	MW818306	Merluccius_merluccius
+ASV1296					Unassigned				Unassigned
+ASV1297					Unassigned				Unassigned
+ASV1298					Unassigned				Unassigned
+ASV1299					Unassigned				Unassigned
+ASV1300					Unassigned				Unassigned
+ASV1301					Unassigned				Unassigned
+ASV1302					Unassigned				Unassigned
+ASV1303					Unassigned				Unassigned
+ASV1304					Unassigned				Unassigned
+ASV1305					Unassigned				Unassigned
+ASV1306					Unassigned				Unassigned
+ASV1307					Unassigned				Unassigned
+ASV1308					Unassigned				Unassigned
+ASV1309					Unassigned				Unassigned
+ASV1310					Unassigned				Unassigned
+ASV1311					Unassigned				Unassigned
+ASV1312					Unassigned				Unassigned
+ASV1313					Unassigned				Unassigned
+ASV1314					Unassigned				Unassigned
+ASV1315					Unassigned				Unassigned
+ASV1316					Unassigned				Unassigned
+ASV1317					Unassigned				Unassigned
+ASV1318					Unassigned				Unassigned
+ASV1319					Unassigned				Unassigned
+ASV1320					Unassigned				Unassigned
+ASV1321					Unassigned				Unassigned
+ASV1322					Unassigned				Unassigned
+ASV1323					Unassigned				Unassigned
+ASV1324					Unassigned				Unassigned
+ASV1325					Unassigned				Unassigned
+ASV1326					Unassigned				Unassigned
+ASV1327					Unassigned				Unassigned
+ASV1328					Unassigned				Unassigned
+ASV1329					Unassigned				Unassigned
+ASV1330					Unassigned				Unassigned
+ASV1331					Unassigned				Unassigned
+ASV1332					Unassigned				Unassigned
+ASV1333					Unassigned				Unassigned
+ASV1334					Unassigned				Unassigned
+ASV1335					Unassigned				Unassigned
+ASV1336					Unassigned				Unassigned
+ASV1337					Unassigned				Unassigned
+ASV1338					Unassigned				Unassigned
+ASV1339					Unassigned				Unassigned
+ASV1340					Unassigned				Unassigned
+ASV1341					Unassigned				Unassigned
+ASV1342					Unassigned				Unassigned
+ASV1343					Unassigned				Unassigned
+ASV1344					Unassigned				Unassigned
+ASV1345					Unassigned				Unassigned
+ASV1346					Unassigned				Unassigned
+ASV1347					Unassigned				Unassigned
+ASV1348					Unassigned				Unassigned
+ASV1349	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo macrostigma	97.436	1.83e-51	PQ275758	Salmo_macrostigma
+ASV1350					Unassigned				Unassigned
+ASV1351					Unassigned				Unassigned
+ASV1352					Unassigned				Unassigned
+ASV1353					Unassigned				Unassigned
+ASV1354					Unassigned				Unassigned
+ASV1355					Unassigned				Unassigned
+ASV1356					Unassigned				Unassigned
+ASV1357					Unassigned				Unassigned
+ASV1358					Unassigned				Unassigned
+ASV1359					Unassigned				Unassigned
+ASV1360					Unassigned				Unassigned
+ASV1361					Unassigned				Unassigned
+ASV1362					Unassigned				Unassigned
+ASV1363					Unassigned				Unassigned
+ASV1364					Unassigned				Unassigned
+ASV1365					Unassigned				Unassigned
+ASV1366					Unassigned				Unassigned
+ASV1367					Unassigned				Unassigned
+ASV1368					Unassigned				Unassigned
+ASV1369					Unassigned				Unassigned
+ASV1370					Unassigned				Unassigned
+ASV1371					Unassigned				Unassigned
+ASV1372					Unassigned				Unassigned
+ASV1373	Actinopteri	Perciformes	Percidae	Perca	Perca flavescens	100	8.87e-86	PP620834	Perca_flavescens
+ASV1374					Unassigned				Unassigned
+ASV1375					Unassigned				Unassigned
+ASV1376					Unassigned				Unassigned
+ASV1377					Unassigned				Unassigned
+ASV1378					Unassigned				Unassigned
+ASV1379					Unassigned				Unassigned
+ASV1380					Unassigned				Unassigned
+ASV1381					Unassigned				Unassigned
+ASV1382					Unassigned				Unassigned
+ASV1383					Unassigned				Unassigned
+ASV1384					Unassigned				Unassigned
+ASV1385					Unassigned				Unassigned
+ASV1386					Unassigned				Unassigned
+ASV1387					Unassigned				Unassigned
+ASV1388					Unassigned				Unassigned
+ASV1389					Unassigned				Unassigned
+ASV1390					Unassigned				Unassigned
+ASV1391					Unassigned				Unassigned
+ASV1392					Unassigned				Unassigned
+ASV1393					Unassigned				Unassigned
+ASV1394					Unassigned				Unassigned
+ASV1395					Unassigned				Unassigned
+ASV1396					Unassigned				Unassigned
+ASV1397	Actinopteri	Gadiformes	Gadidae	Melanogrammus	Melanogrammus aeglefinus	100	8.87e-86	OR380608	Melanogrammus_aeglefinus
+ASV1398					Unassigned				Unassigned
+ASV1399					Unassigned				Unassigned
+ASV1400					Unassigned				Unassigned
+ASV1401					Unassigned				Unassigned
+ASV1402					Unassigned				Unassigned
+ASV1403					Unassigned				Unassigned
+ASV1404					Unassigned				Unassigned
+ASV1405					Unassigned				Unassigned
+ASV1406					Unassigned				Unassigned
+ASV1407					Unassigned				Unassigned
+ASV1408					Unassigned				Unassigned
+ASV1409					Unassigned				Unassigned
+ASV1410					Unassigned				Unassigned
+ASV1411					Unassigned				Unassigned
+ASV1412					Unassigned				Unassigned
+ASV1413					Unassigned				Unassigned
+ASV1414					Unassigned				Unassigned
+ASV1415					Unassigned				Unassigned
+ASV1416					Unassigned				Unassigned
+ASV1417					Unassigned				Unassigned
+ASV1418					Unassigned				Unassigned
+ASV1419					Unassigned				Unassigned
+ASV1420					Unassigned				Unassigned
+ASV1421					Unassigned				Unassigned
+ASV1422					Unassigned				Unassigned
+ASV1423					Unassigned				Unassigned
+ASV1424					Unassigned				Unassigned
+ASV1425	Actinopteri	Cypriniformes	Cyprinidae	Barbus	Barbus barbus	100	5.45e-88	OP931104	Barbus_barbus
+ASV1426					Unassigned				Unassigned
+ASV1427					Unassigned				Unassigned
+ASV1428					Unassigned				Unassigned
+ASV1429					Unassigned				Unassigned
+ASV1430					Unassigned				Unassigned
+ASV1431					Unassigned				Unassigned
+ASV1432					Unassigned				Unassigned
+ASV1433					Unassigned				Unassigned
+ASV1434					Unassigned				Unassigned
+ASV1435					Unassigned				Unassigned
+ASV1436					Unassigned				Unassigned
+ASV1437					Unassigned				Unassigned
+ASV1438					Unassigned				Unassigned
+ASV1439					Unassigned				Unassigned
+ASV1440					Unassigned				Unassigned
+ASV1441					Unassigned				Unassigned
+ASV1442					Unassigned				Unassigned
+ASV1443					Unassigned				Unassigned

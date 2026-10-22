@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "specification_date": "2026-07-19",
+  "specification_path": "docs/impact-sprint-preregistration.md",
+  "timing_scope": "repository-local specification frozen before new Phase-5 execution; not externally registered",
+  "seeds": {
+    "occupancy_atlas": 2026071901,
+    "layerE_multiverse": 2026071902,
+    "trait_null": 2026071903,
+    "pipeline_bootstrap": 2026071904
+  },
+  "occupancy_atlas": {
+    "evidence_scope": "synthetic_known_truth_only",
+    "n_units": 120,
+    "simulations_per_scenario": 100,
+    "target_mean_occupancy": [0.1, 0.35, 0.7],
+    "prevalence_structure": ["uniform", "downstream_gradient"],
+    "occupancy_gradient_slope": 2.0,
+    "baseline_detection": [0.2, 0.5, 0.8],
+    "replicates": [1, 2, 3],
+    "log_depth_sd": [0.15, 0.75],
+    "depth_river_correlation": [0.0, 0.7],
+    "detection_depth_slope": 0.75,
+    "mask_scenario": ["complete_correct", "structured_correct", "structured_zero_fill"],
+    "structured_missing_fraction": 0.2,
+    "expected_scenarios": 648,
+    "estimators": ["naive_occurrence", "replication_aware", "depth_aware"],
+    "gate": {
+      "max_absolute_bias": 0.05,
+      "max_rmse": 0.1,
+      "coverage_min": 0.88,
+      "coverage_max": 0.99,
+      "max_fit_failure_rate": 0.05,
+      "max_interval_failure_rate": 0.05,
+      "nonidentifiable_failure_rate": 0.2
+    }
+  },
+  "salmo_benchmark": {
+    "candidate_labels": [
+      "Salmo trutta",
+      "Salmo salar",
+      "Salmo carpio",
+      "Salmo marmoratus",
+      "Salmo macedonicus",
+      "Salmo macrostigma",
+      "Salmo obtusirostris"
+    ],
+    "outgroups": ["Salvelinus alpinus", "Oncorhynchus mykiss"],
+    "max_query_records_per_label": 50,
+    "max_passing_accessions_per_label": 5,
+    "min_accessions_per_label": 2,
+    "min_salmo_labels_for_species_gate": 4,
+    "markers": {
+      "mifish_12S": {
+        "forward_primer": "GTCGGTAAAACTCGTGCCAGC",
+        "reverse_primer": "CATAGTGGGGTATCTAATCCCAGTTTG",
+        "max_mismatches_per_primer": 3,
+        "min_product_bp": 140,
+        "max_product_bp": 250
+      },
+      "coi_5prime": {"coding_bases": 648},
+      "cytb": {"coding_bases": 1140}
+    },
+    "classification_tie_rule": "deepest rank shared by every tied nearest neighbour",
+    "species_gate_accuracy": 1.0
+  },
+  "layerE_multiverse": {
+    "panels": ["balanced_site_profile", "all_site_profile", "balanced_site_time"],
+    "taxonomy": ["analysis_label", "genus"],
+    "library_detection_threshold_reads": [1, 2],
+    "effort": ["all_surviving", "one_library_100_draw_ensemble"],
+    "distances": ["bray_curtis_proportions", "jaccard_occurrence", "robust_aitchison_rclr"],
+    "expected_specification_families": 72,
+    "one_library_draws": 100,
+    "spatial_nonidentity_permutations": 27,
+    "spatial_p_resolution": 0.0357142857142857,
+    "expected_reference_influence_rows": 75,
+    "gate": {
+      "min_valid_family_fraction": 0.9,
+      "min_positive_family_fraction": 0.8,
+      "min_positive_one_library_draw_fraction": 0.9,
+      "allow_reference_leaveout_sign_reversal": false
+    }
+  },
+  "trait_null": {
+    "balanced_units": 154,
+    "balanced_sites": 14,
+    "balanced_timepoints": 11,
+    "primary_label_count": 12,
+    "strict_labels": [
+      "Anguilla_anguilla",
+      "Barbatula_barbatula",
+      "Gasterosteus_aculeatus",
+      "Phoxinus_ujmonensis",
+      "Salmo_trutta"
+    ],
+    "gower_axes": ["flow_summary_group", "trophic_summary_group", "movement_summary_group"],
+    "statistic": "presence_absence_weighted_Rao_Q_then_site_mean_lower_minus_upper",
+    "null_draws": 9999,
+    "burnin_accepted_swaps_per_timepoint": 5000,
+    "accepted_swaps_between_draws_per_timepoint": 100,
+    "min_unique_null_matrices": 500,
+    "one_sided_alpha": 0.05,
+    "preserve": ["unit_richness_within_timepoint", "label_prevalence_within_timepoint"]
+  },
+  "pipeline_disagreement": {
+    "shared_libraries": 642,
+    "harmonised_labels": 14,
+    "common_source_positive_labels": 11,
+    "source_positive_cells": 2344,
+    "recovered_cells": 1962,
+    "nonrecovered_cells": 382,
+    "bootstrap_draws": 999,
+    "time_block_length": 3,
+    "leaveout_taxa": 11,
+    "leaveout_sites": 14,
+    "leaveout_timepoints": 18,
+    "max_absolute_predictor_correlation": 0.7,
+    "max_design_condition_number": 30,
+    "min_finite_bootstrap_fraction": 0.95,
+    "min_leaveout_sign_stability": 0.9,
+    "allowed_outcome_terms": ["pipeline disagreement", "non-recovery relative to the source table"]
+  },
+  "claim_survival": {
+    "required_claim_ids": [
+      "river-community",
+      "imperfect-detection",
+      "pipeline-disagreement",
+      "taxonomic-resolution",
+      "trait-diversity"
+    ],
+    "allowed_statuses": ["SURVIVES", "SURVIVES_CONDITIONAL", "WITHHELD", "FAILED_GATE"]
+  }
+}

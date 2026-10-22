@@ -1,0 +1,2 @@
+seed	bootstrap_draws	site_resampling	time_resampling	taxon_resampling	source_positive_cells	nonrecovered_cells	canonical_runtime_excluded	primary_depth_part_whole_coupling	sensitivity_bootstrap_draws	sensitivity_finite_bootstrap_fits	sensitivity_leaveout_groups	depth_association_sensitivity_status	gate_status
+2026071904	999	within section	circular moving blocks length 3	whole taxon clusters	2344	382	TRUE	includes focal reprocessed count used to define miss	999	999	43	SURVIVES_FOCAL_EXCLUSION	ASSOCIATION_EVIDENCE

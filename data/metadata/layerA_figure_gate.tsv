@@ -1,0 +1,6 @@
+figure	suppressed_display	claim_status	max_psi_Rhat	convergence_threshold	md5	generated_by
+figures/phase3_occupancy_psi_forest.png	Smoke-fit per-species occupancy forest	WITHHELD_UNCONVERGED	6.61236016430781	1.05	7585a1ff683e46e743e0b40941657db2	scripts/apply_layerA_claim_gate.R
+figures/phase3_occupancy_detection_fnr.png	Smoke-fit detection and false-negative panel	WITHHELD_UNCONVERGED	6.61236016430781	1.05	c565a936fd8868d5be623782c23426fc	scripts/apply_layerA_claim_gate.R
+figures/phase3_occupancy_cov_dist_effect.png	Smoke-fit downstream-distance coefficients	WITHHELD_UNCONVERGED	6.61236016430781	1.05	2d911420b1a07e866d0acbcac8faa7a9	scripts/apply_layerA_claim_gate.R
+figures/phase3_occupancy_cov_corrected_vs_raw.png	Smoke-fit corrected-versus-naive occupancy shifts	WITHHELD_UNCONVERGED	6.61236016430781	1.05	9db16df19f58dd2ceb7e5e8a2764d4db	scripts/apply_layerA_claim_gate.R
+figures/phase3_occupancy_cov_design.png	Smoke-fit survey-design utility curve	WITHHELD_UNCONVERGED	6.61236016430781	1.05	516cf740eb2f23d04b8b2418fb71ea95	scripts/apply_layerA_claim_gate.R

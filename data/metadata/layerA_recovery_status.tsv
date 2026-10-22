@@ -1,0 +1,2 @@
+analysis	fit_scale	max_psi_Rhat	median_fit_max_psi_Rhat	convergence_threshold	convergence_pass	claim_status	allowed_claim
+Layer A smoke-scale known-truth recovery study	10 simulations x 2 fits; 2 chains x 3800 iterations	6.61236016430781	1.50961857394728	1.05	FALSE	WITHHELD_UNCONVERGED	No recovery magnitude or direction; current rare-species occupancy claims remain demoted

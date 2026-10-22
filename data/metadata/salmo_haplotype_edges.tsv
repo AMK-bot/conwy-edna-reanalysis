@@ -1,0 +1,4 @@
+from_haplotype	to_haplotype	edit_distance	edge_role
+H0	H1	1	minimum-spanning edge
+H0	H2	2	minimum-spanning edge
+H1	H3	3	minimum-spanning edge

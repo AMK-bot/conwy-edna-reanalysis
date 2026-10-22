@@ -1,0 +1,28 @@
+marker	submitted_label	submitted_genus	panel_role	ncbi_total_count	query_returned_count	passing_accessions	unique_independence_keys	minimum_required	eligible_for_rank_gate	coverage_status	selected_accessions	limitation
+mifish_12S	Salmo trutta	Salmo	salmo_candidate	30	30	5	5	2	yes	eligible	JQ390057.1;LT617630.1;LT617631.1;LT617632.1;MF621760.1	Distinct primary accessions; some records lack voucher/isolate qualifiers.
+mifish_12S	Salmo salar	Salmo	salmo_candidate	21	21	5	5	2	yes	eligible	AF133701.1;JQ390055.1;JQ390056.1;KF792729.1;LC012541.1	Distinct primary accessions; some records lack voucher/isolate qualifiers.
+mifish_12S	Salmo carpio	Salmo	salmo_candidate	0	0	0	0	2	no	no-complete-records		No exact-label complete primary mitogenome passed the frozen common-marker screen.
+mifish_12S	Salmo marmoratus	Salmo	salmo_candidate	0	0	0	0	2	no	no-complete-records		No exact-label complete primary mitogenome passed the frozen common-marker screen.
+mifish_12S	Salmo macedonicus	Salmo	salmo_candidate	0	0	0	0	2	no	no-complete-records		No exact-label complete primary mitogenome passed the frozen common-marker screen.
+mifish_12S	Salmo macrostigma	Salmo	salmo_candidate	0	0	0	0	2	no	no-complete-records		No exact-label complete primary mitogenome passed the frozen common-marker screen.
+mifish_12S	Salmo obtusirostris	Salmo	salmo_candidate	1	1	1	1	2	no	below-minimum	LT617633.1	1 passing accession(s); at least 2 required.
+mifish_12S	Salvelinus alpinus	Salvelinus	outgroup	111	50	5	5	2	yes	eligible	AF154851.1;MF621740.1;MF621741.1;MF621743.1;MN530962.1	Distinct primary accessions; some records lack voucher/isolate qualifiers.
+mifish_12S	Oncorhynchus mykiss	Oncorhynchus	outgroup	41	41	5	5	2	yes	eligible	DQ288268.1;DQ288269.1;DQ288270.1;DQ288271.1;KP013084.1	At least two distinct voucher/isolate/strain keys documented.
+coi_5prime	Salmo trutta	Salmo	salmo_candidate	30	30	5	5	2	yes	eligible	JQ390057.1;LT617630.1;LT617631.1;LT617632.1;MF621760.1	Distinct primary accessions; some records lack voucher/isolate qualifiers.
+coi_5prime	Salmo salar	Salmo	salmo_candidate	21	21	5	5	2	yes	eligible	AF133701.1;JQ390055.1;JQ390056.1;KF792729.1;LC012541.1	Distinct primary accessions; some records lack voucher/isolate qualifiers.
+coi_5prime	Salmo carpio	Salmo	salmo_candidate	0	0	0	0	2	no	no-complete-records		No exact-label complete primary mitogenome passed the frozen common-marker screen.
+coi_5prime	Salmo marmoratus	Salmo	salmo_candidate	0	0	0	0	2	no	no-complete-records		No exact-label complete primary mitogenome passed the frozen common-marker screen.
+coi_5prime	Salmo macedonicus	Salmo	salmo_candidate	0	0	0	0	2	no	no-complete-records		No exact-label complete primary mitogenome passed the frozen common-marker screen.
+coi_5prime	Salmo macrostigma	Salmo	salmo_candidate	0	0	0	0	2	no	no-complete-records		No exact-label complete primary mitogenome passed the frozen common-marker screen.
+coi_5prime	Salmo obtusirostris	Salmo	salmo_candidate	1	1	1	1	2	no	below-minimum	LT617633.1	1 passing accession(s); at least 2 required.
+coi_5prime	Salvelinus alpinus	Salvelinus	outgroup	111	50	5	5	2	yes	eligible	AF154851.1;MF621740.1;MF621741.1;MF621743.1;MN530962.1	Distinct primary accessions; some records lack voucher/isolate qualifiers.
+coi_5prime	Oncorhynchus mykiss	Oncorhynchus	outgroup	41	41	5	5	2	yes	eligible	DQ288268.1;DQ288269.1;DQ288270.1;DQ288271.1;KP013084.1	At least two distinct voucher/isolate/strain keys documented.
+cytb	Salmo trutta	Salmo	salmo_candidate	30	30	5	5	2	yes	eligible	JQ390057.1;LT617630.1;LT617631.1;LT617632.1;MF621760.1	Distinct primary accessions; some records lack voucher/isolate qualifiers.
+cytb	Salmo salar	Salmo	salmo_candidate	21	21	5	5	2	yes	eligible	AF133701.1;JQ390055.1;JQ390056.1;KF792729.1;LC012541.1	Distinct primary accessions; some records lack voucher/isolate qualifiers.
+cytb	Salmo carpio	Salmo	salmo_candidate	0	0	0	0	2	no	no-complete-records		No exact-label complete primary mitogenome passed the frozen common-marker screen.
+cytb	Salmo marmoratus	Salmo	salmo_candidate	0	0	0	0	2	no	no-complete-records		No exact-label complete primary mitogenome passed the frozen common-marker screen.
+cytb	Salmo macedonicus	Salmo	salmo_candidate	0	0	0	0	2	no	no-complete-records		No exact-label complete primary mitogenome passed the frozen common-marker screen.
+cytb	Salmo macrostigma	Salmo	salmo_candidate	0	0	0	0	2	no	no-complete-records		No exact-label complete primary mitogenome passed the frozen common-marker screen.
+cytb	Salmo obtusirostris	Salmo	salmo_candidate	1	1	1	1	2	no	below-minimum	LT617633.1	1 passing accession(s); at least 2 required.
+cytb	Salvelinus alpinus	Salvelinus	outgroup	111	50	5	5	2	yes	eligible	AF154851.1;MF621740.1;MF621741.1;MF621743.1;MN530962.1	Distinct primary accessions; some records lack voucher/isolate qualifiers.
+cytb	Oncorhynchus mykiss	Oncorhynchus	outgroup	41	41	5	5	2	yes	eligible	DQ288268.1;DQ288269.1;DQ288270.1;DQ288271.1;KP013084.1	At least two distinct voucher/isolate/strain keys documented.

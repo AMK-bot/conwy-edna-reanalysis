@@ -1,0 +1,55 @@
+# Conda layer for the Conwy 12S eDNA reanalysis  (native arm64).
+#
+# Build a fresh, ISOLATED env (does not touch any other conda env):
+#     micromamba create -y -n edna -f environment.yml
+#     micromamba run  -n edna Rscript R/00_setup.R     # CRAN top-ups + source builds + smoke test
+#
+# Two packages are deliberately NOT here and are installed from source by
+# R/00_setup.R instead, because their osx-arm64 conda builds are broken:
+#   * bioconductor-dada2  -> links an incompatible libtbb (oneTBB symbol drop)
+#   * r-inext             -> ships a Linux (ELF x86-64) .so in the arm64 package
+# Everything else installs as a prebuilt native-arm64 binary.
+#
+# Exact pins of a known-good build are in environment.lock.yml (note: that lock
+# lists the broken conda dada2/iNEXT, which 00_setup.R overrides from source).
+name: edna
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  # --- R + reproducibility/build infra ---
+  - r-base=4.4
+  - r-renv
+  - r-biocmanager
+  - r-remotes
+  - r-rcpp
+  - r-rcpparallel        # dada2's parallel backend (source build links this)
+  - c-compiler
+  - cxx-compiler
+  - fortran-compiler
+  - make
+  - pkg-config
+  # --- community ecology / amplicon (Layer E + Phase 2) ---
+  - bioconductor-phyloseq
+  - bioconductor-decontam
+  - bioconductor-aldex2
+  - bioconductor-ancombc
+  - r-vegan
+  - r-indicspecies
+  - r-zcompositions
+  # --- Bayesian occupancy backends ---
+  - cmdstan              # prebuilt arm64 CmdStan (occumb is JAGS; custom dynamic model is Stan)
+  - r-cmdstanr
+  - r-posterior
+  - r-bayesplot
+  - jags                 # required by rjags -> jagsUI -> occumb
+  - r-rjags              # conda build is correctly linked to the conda JAGS
+  # --- reporting / app / tidy ---
+  - r-shiny
+  - quarto
+  - r-quarto
+  - r-knitr
+  - r-rmarkdown
+  - r-tidyverse
+  - r-data.table
+  - r-languageserver     # editor/IDE (Positron / VS Code) support

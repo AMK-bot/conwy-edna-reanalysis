@@ -1,0 +1,7 @@
+marker	submitted_label	accessions	within_pairs	within_mean_distance	within_max_distance	between_pairs	between_mean_distance	nearest_between_label_distance	barcode_gap	positive_barcode_gap	eligible_salmo_labels_in_panel	species_panel_coverage_adequate	interpretation
+mifish_12S	Salmo trutta	5	10	0	0	25	0.0270588235294118	0.0235294117647059	0.0235294117647059	yes	2	no	Narrowed-panel diagnostic only; four-label species coverage gate is unmet.
+mifish_12S	Salmo salar	5	10	0.00705882352941176	0.0176470588235294	25	0.0270588235294118	0.0235294117647059	0.00588235294117647	yes	2	no	Narrowed-panel diagnostic only; four-label species coverage gate is unmet.
+coi_5prime	Salmo trutta	5	10	0.00432098765432099	0.00617283950617284	25	0.0669753086419753	0.0648148148148148	0.058641975308642	yes	2	no	Narrowed-panel diagnostic only; four-label species coverage gate is unmet.
+coi_5prime	Salmo salar	5	10	0.00277777777777778	0.00462962962962963	25	0.0669753086419753	0.0648148148148148	0.0601851851851852	yes	2	no	Narrowed-panel diagnostic only; four-label species coverage gate is unmet.
+cytb	Salmo trutta	5	10	0.00456140350877193	0.00701754385964912	25	0.0592982456140351	0.0570175438596491	0.05	yes	2	no	Narrowed-panel diagnostic only; four-label species coverage gate is unmet.
+cytb	Salmo salar	5	10	0.00157894736842105	0.00350877192982456	25	0.0592982456140351	0.0570175438596491	0.0535087719298246	yes	2	no	Narrowed-panel diagnostic only; four-label species coverage gate is unmet.

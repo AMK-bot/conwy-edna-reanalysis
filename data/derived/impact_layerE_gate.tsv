@@ -1,0 +1,6 @@
+criterion	numerator	denominator	observed_value	comparison	threshold	pass	interpretation
+valid_specification_families	64	72	0.8888888889	>=	0.9	FALSE	A family is valid only when every declared draw has finite distance, PERMANOVA, and dispersion results
+positive_valid_family_contrasts	64	64	1	>=	0.8	TRUE	Direction is the median lower-minus-upper detected-label richness contrast among valid families
+positive_one_library_draw_contrasts	3600	3600	1	>=	0.9	TRUE	All 3,600 declared one-library family-draw rows remain in the denominator, including distance failures
+reference_leaveout_sign_reversals	0	75	0	==	0	TRUE	All 75 reference leave-outs must be valid and none may reverse the reference richness sign
+overall_gate	NA	NA	0	all component gates	NA	FALSE	Robust descriptive broadening requires every preregistered component to pass

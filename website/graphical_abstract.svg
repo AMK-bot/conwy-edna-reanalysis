@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900"
+     role="img" aria-labelledby="title description">
+  <title id="title">From five plausible eDNA claims to three clear decision types</title>
+  <desc id="description">Verified River Conwy eDNA evidence enters five distinct credibility audits. Pipeline disagreement is accepted, functional-trait broadening is rejected, and the river-community, real-occupancy, and species-resolution claims are non-conclusive, each with a stated reason.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#315c55"/>
+    </marker>
+    <style>
+      .title { font: 700 50px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #173b36; }
+      .subtitle { font: 400 23px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #536b66; }
+      .section { font: 700 20px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #173b36; letter-spacing: 1.5px; }
+      .label { font: 700 24px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #173b36; }
+      .body { font: 400 19px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #294a45; }
+      .small { font: 400 16px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #536b66; }
+      .metric { font: 700 38px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #173b36; }
+      .card { fill: #ffffff; stroke: #c1cfcb; stroke-width: 2; }
+      .lane { fill: #ffffff; stroke: #c1cfcb; stroke-width: 2; }
+      .status { font: 700 15px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #ffffff; letter-spacing: .5px; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="900" fill="#f4f7f5"/>
+  <rect width="1600" height="12" fill="#315c55"/>
+  <text class="title" x="70" y="82">From five plausible claims to three clear decision types</text>
+  <text class="subtitle" x="72" y="122">One public river-eDNA dataset · five claim-specific stress tests · every decision includes its reason</text>
+
+  <text class="section" x="70" y="184">VERIFIED EVIDENCE BASE</text>
+  <rect class="card" x="70" y="210" rx="18" width="285" height="525"/>
+  <text class="metric" x="105" y="270">River Conwy</text>
+  <text class="body" x="105" y="316">14 sites</text>
+  <text class="body" x="105" y="350">18 usable timepoints</text>
+  <text class="body" x="105" y="384">647 field libraries</text>
+  <text class="body" x="105" y="418">1,348 ASVs</text>
+  <line x1="105" y1="452" x2="320" y2="452" stroke="#c1cfcb" stroke-width="2"/>
+  <text class="label" x="105" y="498">First-pass signals</text>
+  <circle cx="112" cy="535" r="6" fill="#2e7567"/>
+  <text class="small" x="130" y="541">Downstream broadening</text>
+  <circle cx="112" cy="575" r="6" fill="#2e7567"/>
+  <text class="small" x="130" y="581">Missed-detection concern</text>
+  <circle cx="112" cy="615" r="6" fill="#2e7567"/>
+  <text class="small" x="130" y="621">Pipeline disagreement</text>
+  <circle cx="112" cy="655" r="6" fill="#2e7567"/>
+  <text class="small" x="130" y="661">Species-name conflict</text>
+  <circle cx="112" cy="695" r="6" fill="#2e7567"/>
+  <text class="small" x="130" y="701">Trait broadening</text>
+
+  <path d="M355 470 C385 470, 390 470, 414 470" fill="none" stroke="#315c55" stroke-width="5" marker-end="url(#arrow)"/>
+
+  <text class="section" x="430" y="184">FIVE CLAIM-SPECIFIC AUDITS</text>
+
+  <rect class="lane" x="430" y="210" rx="14" width="690" height="92"/>
+  <circle cx="470" cy="256" r="22" fill="#315c55"/><text x="470" y="264" text-anchor="middle" style="font:700 20px sans-serif;fill:#fff">1</text>
+  <text class="label" x="508" y="246">River community</text>
+  <text class="small" x="508" y="275">Reason: 64/72 valid (&lt;90%); direction stable</text>
+  <rect x="935" y="231" rx="18" width="160" height="46" fill="#a96516"/><text class="status" x="1015" y="260" text-anchor="middle">NON-CONCLUSIVE</text>
+
+  <rect class="lane" x="430" y="318" rx="14" width="690" height="92"/>
+  <circle cx="470" cy="364" r="22" fill="#315c55"/><text x="470" y="372" text-anchor="middle" style="font:700 20px sans-serif;fill:#fff">2</text>
+  <text class="label" x="508" y="354">Imperfect detection</text>
+  <text class="small" x="508" y="383">Reason: real fit failed; atlas is synthetic only</text>
+  <rect x="935" y="339" rx="18" width="160" height="46" fill="#a96516"/><text class="status" x="1015" y="368" text-anchor="middle">NON-CONCLUSIVE</text>
+
+  <rect class="lane" x="430" y="426" rx="14" width="690" height="92"/>
+  <circle cx="470" cy="472" r="22" fill="#315c55"/><text x="470" y="480" text-anchor="middle" style="font:700 20px sans-serif;fill:#fff">3</text>
+  <text class="label" x="508" y="462">Pipeline disagreement</text>
+  <text class="small" x="508" y="491">Reason: 999/999 finite; 43/43 negative</text>
+  <rect x="935" y="447" rx="18" width="160" height="46" fill="#46734f"/><text class="status" x="1015" y="476" text-anchor="middle">ACCEPTED</text>
+
+  <rect class="lane" x="430" y="534" rx="14" width="690" height="92"/>
+  <circle cx="470" cy="580" r="22" fill="#315c55"/><text x="470" y="588" text-anchor="middle" style="font:700 20px sans-serif;fill:#fff">4</text>
+  <text class="label" x="508" y="570">Taxonomic resolution</text>
+  <text class="small" x="508" y="599">Reason: 2/7 labels eligible; minimum 4</text>
+  <rect x="935" y="555" rx="18" width="160" height="46" fill="#a96516"/><text class="status" x="1015" y="584" text-anchor="middle">NON-CONCLUSIVE</text>
+
+  <rect class="lane" x="430" y="642" rx="14" width="690" height="92"/>
+  <circle cx="470" cy="688" r="22" fill="#315c55"/><text x="470" y="696" text-anchor="middle" style="font:700 20px sans-serif;fill:#fff">5</text>
+  <text class="label" x="508" y="678">Functional traits</text>
+  <text class="small" x="508" y="707">Reason: both null p-values were &gt; 0.05</text>
+  <rect x="935" y="663" rx="18" width="160" height="46" fill="#a33d46"/><text class="status" x="1015" y="692" text-anchor="middle">REJECTED</text>
+
+  <path d="M1120 470 C1145 470, 1150 470, 1170 470" fill="none" stroke="#315c55" stroke-width="5" marker-end="url(#arrow)"/>
+
+  <text class="section" x="1190" y="184">FINAL TALLY</text>
+  <rect class="card" x="1185" y="210" rx="18" width="345" height="525"/>
+  <text class="metric" x="1225" y="278">1</text><text class="label" x="1280" y="275">accepted</text>
+  <text class="small" x="1280" y="299">pipeline association</text>
+  <line x1="1225" y1="322" x2="1490" y2="322" stroke="#c1cfcb" stroke-width="2"/>
+  <text class="metric" x="1225" y="414">1</text><text class="label" x="1280" y="411">rejected</text>
+  <text class="small" x="1280" y="435">trait broadening</text>
+  <line x1="1225" y1="458" x2="1490" y2="458" stroke="#c1cfcb" stroke-width="2"/>
+  <text class="metric" x="1225" y="550">3</text><text class="label" x="1280" y="547">non-conclusive</text>
+  <text class="small" x="1280" y="571">river + recovery + species</text>
+  <rect x="1225" y="652" rx="16" width="265" height="48" fill="#e7f0ed"/>
+  <text class="small" x="1357" y="681" text-anchor="middle">Genus boundary retained separately</text>
+
+  <rect x="70" y="790" rx="18" width="1460" height="76" fill="#173b36"/>
+  <text x="800" y="825" text-anchor="middle" style="font:700 25px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#fff">
+    One accepted, one rejected, three non-conclusive — every decision includes its reason.
+  </text>
+  <text x="800" y="851" text-anchor="middle" style="font:400 17px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#dbe8e4">
+    The scientific addition is the reproducible credibility-audit framework—and the restraint it enforces.
+  </text>
+</svg>

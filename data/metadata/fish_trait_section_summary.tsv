@@ -1,0 +1,22 @@
+trait_axis	trait_group	section	n_sites	n_common_timepoints	n_site_time_units	n_units_with_guild	unit_prevalence	taxon_detection_incidences	metric_definition
+flow	flow_rheophilic	upper	5	11	55	53	0.9636	54	A unit has the guild when at least one included label in that group was detected; incidences sum label presences and are not reads
+flow	flow_rheophilic	middle	5	11	55	55	1.0000	177	A unit has the guild when at least one included label in that group was detected; incidences sum label presences and are not reads
+flow	flow_rheophilic	lower	4	11	44	44	1.0000	175	A unit has the guild when at least one included label in that group was detected; incidences sum label presences and are not reads
+flow	flow_eurytopic	upper	5	11	55	0	0.0000	0	A unit has the guild when at least one included label in that group was detected; incidences sum label presences and are not reads
+flow	flow_eurytopic	middle	5	11	55	7	0.1273	8	A unit has the guild when at least one included label in that group was detected; incidences sum label presences and are not reads
+flow	flow_eurytopic	lower	4	11	44	42	0.9545	73	A unit has the guild when at least one included label in that group was detected; incidences sum label presences and are not reads
+flow	flow_limnophilic	upper	5	11	55	0	0.0000	0	A unit has the guild when at least one included label in that group was detected; incidences sum label presences and are not reads
+flow	flow_limnophilic	middle	5	11	55	1	0.0182	1	A unit has the guild when at least one included label in that group was detected; incidences sum label presences and are not reads
+flow	flow_limnophilic	lower	4	11	44	11	0.2500	12	A unit has the guild when at least one included label in that group was detected; incidences sum label presences and are not reads
+trophic	trophic_benthic	upper	5	11	55	0	0.0000	0	Broad category pools benthic invertivores, omnivores and generalists; unit prevalence is binary and overlapping across trophic groups
+trophic	trophic_benthic	middle	5	11	55	37	0.6727	43	Broad category pools benthic invertivores, omnivores and generalists; unit prevalence is binary and overlapping across trophic groups
+trophic	trophic_benthic	lower	4	11	44	44	1.0000	80	Broad category pools benthic invertivores, omnivores and generalists; unit prevalence is binary and overlapping across trophic groups
+trophic	trophic_small_invertivore	upper	5	11	55	0	0.0000	0	Unit prevalence is binary; broad trophic groups describe association, not observed diet
+trophic	trophic_small_invertivore	middle	5	11	55	1	0.0182	1	Unit prevalence is binary; broad trophic groups describe association, not observed diet
+trophic	trophic_small_invertivore	lower	4	11	44	32	0.7273	41	Unit prevalence is binary; broad trophic groups describe association, not observed diet
+trophic	trophic_omnivore_invertivore	upper	5	11	55	1	0.0182	1	This group is represented by the Phoxinus complex proxy
+trophic	trophic_omnivore_invertivore	middle	5	11	55	51	0.9273	51	This group is represented by the Phoxinus complex proxy
+trophic	trophic_omnivore_invertivore	lower	4	11	44	44	1.0000	44	This group is represented by the Phoxinus complex proxy
+trophic	trophic_ontogenetic_piscivore	upper	5	11	55	53	0.9636	53	Potential ontogenetic piscivory is a species trait; eDNA does not establish fish size or realised diet
+trophic	trophic_ontogenetic_piscivore	middle	5	11	55	55	1.0000	91	Potential ontogenetic piscivory is a species trait; eDNA does not establish fish size or realised diet
+trophic	trophic_ontogenetic_piscivore	lower	4	11	44	44	1.0000	95	Potential ontogenetic piscivory is a species trait; eDNA does not establish fish size or realised diet

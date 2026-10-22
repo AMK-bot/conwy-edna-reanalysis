@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "data_scope": "synthetic_known_truth_only",
+  "analysis_runtime_seconds": 96.224000000000004,
+  "baseline_analysis_runtime_seconds": 90.891999999999996,
+  "execution_cores": 4,
+  "full_design_executed": true,
+  "deterministic_rebuild_requested": true,
+  "deterministic_rebuild_pass": true,
+  "deterministic_files_compared": [
+    "scenarios",
+    "simulation_audit",
+    "fit_results",
+    "atlas",
+    "generator_fixture",
+    "figure_png",
+    "figure_svg"
+  ],
+  "impact_manifest_sha256": "55dbf220617f0aa0f779eed39f22778db62248d9768bbe71413f5df799f408c9",
+  "canonical_output_sha256": {
+    "scenarios": "fa457b5b6da399a4d0345869d7ed2e439c21f516f4d8607529dd308d847338b1",
+    "simulation_audit": "95a8f40fd133c5f7ce8d64b9a8e5c9618dca8f65d578d9ab1ba12fcf7b19f545",
+    "fit_results": "21cd125d1e60d443021fbd3e235dc12debdf4f091739972c78b6297475c63977",
+    "atlas": "841702086b38dba7af0a4208cc1f82990694405579b331a0d0cdc8ac51ccd610",
+    "generator_fixture": "2a88783eef93dcbfa0afda07a9d03ecb7e0f4a6ca2598751f89f7a86d28f4dde",
+    "figure_png": "101177dd7cc34435152afe52e39e16583c790ce073defdbf32750755128c834d",
+    "figure_svg": "1b6eb041372bfd0122a16e79d4b5b68ea194f12b5c9f22d59d60a85762598d88",
+    "impact_manifest": "55dbf220617f0aa0f779eed39f22778db62248d9768bbe71413f5df799f408c9"
+  },
+  "layerA_real_inputs_read": [],
+  "test_command": "Rscript R/test_impact_atlas.R (run separately; see impact_occupancy_test_receipt.tsv)"
+}

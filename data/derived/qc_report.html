@@ -1,0 +1,25 @@
+<!doctype html><html><head><meta charset='utf-8'><title>Phase-2 QC report</title>
+<style>body{font-family:system-ui,Arial;margin:24px;max-width:1100px}img{max-width:100%;border:1px solid #ccc}
+table{border-collapse:collapse}td,th{border:1px solid #ccc;padding:3px 8px;font-size:13px}</style></head><body>
+<h1>Conwy eDNA Phase-2 QC report</h1>
+<p><b>892</b> libraries (755 samples, 79 negatives, 16 positives, 42 T3). Median reads kept after primer trim: <b>24.8%</b>.</p>
+<p>QC = DADA2 plotQualityProfile (PV4: R-native, replaces FastQC/MultiQC). Reads 2x250 over ~172bp amplicon.</p>
+<h2>Per-base quality (raw, sample libraries)</h2>
+<img src='figs/raw_quality_R1R2.png'>
+<h2>Primer-trim summary (worst 15 by %kept)</h2><table><tr><th>alias</th><th>role</th><th>reads_in</th><th>reads_out</th><th>%kept</th></tr>
+<tr><td>BLANK_C3_A1</td><td>negative</td><td>842</td><td>0</td><td>0</td></tr>
+<tr><td>BLANK_C4_A1</td><td>negative</td><td>287377</td><td>1</td><td>0</td></tr>
+<tr><td>BLANK_D1_A1</td><td>negative</td><td>480</td><td>0</td><td>0</td></tr>
+<tr><td>E01_R1_T08</td><td>sample</td><td>219621</td><td>7</td><td>0</td></tr>
+<tr><td>E01_R1_T10</td><td>sample</td><td>100460</td><td>3</td><td>0</td></tr>
+<tr><td>E01_R2_T07</td><td>sample</td><td>98969</td><td>8</td><td>0</td></tr>
+<tr><td>E01_R2_T10</td><td>sample</td><td>123811</td><td>45</td><td>0</td></tr>
+<tr><td>E02_R1_T10</td><td>sample</td><td>140544</td><td>18</td><td>0</td></tr>
+<tr><td>E02_R2_T08</td><td>sample</td><td>210750</td><td>2</td><td>0</td></tr>
+<tr><td>E02_R2_T10</td><td>sample</td><td>116034</td><td>21</td><td>0</td></tr>
+<tr><td>E02_R3_T07</td><td>sample</td><td>114844</td><td>50</td><td>0</td></tr>
+<tr><td>E02_R3_T09</td><td>sample</td><td>540070</td><td>27</td><td>0</td></tr>
+<tr><td>E02_R3_T10</td><td>sample</td><td>127041</td><td>7</td><td>0</td></tr>
+<tr><td>E03_R1_T07</td><td>sample</td><td>95869</td><td>7</td><td>0</td></tr>
+<tr><td>E03_R1_T08</td><td>sample</td><td>151420</td><td>65</td><td>0</td></tr>
+</table></body></html>
